@@ -1,0 +1,4912 @@
+<gedcom>
+    <indi id=@I0001@>
+        <name>Elizabeth Alexandra Mary /Windsor/</name>
+        <sex>F</sex>
+        <birt>
+            <date>21 Apr 1926</date>
+            <plac>17 Bruton Street, London, W1</plac>
+        </birt>
+        <occu>Queen</occu>
+        <famc>@F0003@</famc>
+        <fams>@F0001@</fams>
+        <note>@N0002@</note>
+        <chan>
+            <date>13 Dec 2003</date>
+        </chan>
+    </indi>
+    <indi id=@I0002@>
+        <name>Philip /Mountbatten/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1921</date>
+        </birt>
+        <titl>Duke of Edinburgh</titl>
+        <famc>@F0002@</famc>
+        <fams>@F0001@</fams>
+        <note>@N0001@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0003@>
+        <name>Andrew</name>
+        <sex>M</sex>
+        <fams>@F0002@</fams>
+        <note>@N0013@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0004@>
+        <name>Alice</name>
+        <sex>F</sex>
+        <fams>@F0002@</fams>
+    </indi>
+    <indi id=@I0005@>
+        <name>George VI</name>
+        <sex>M</sex>
+        <birt>
+            <date>1895</date>
+        </birt>
+        <deat value="Y">
+            <date>1952</date>
+        </deat>
+        <famc>@F0005@</famc>
+        <fams>@F0003@</fams>
+        <note>@N0004@</note>
+        <chan>
+            <date>13 Dec 2003</date>
+        </chan>
+    </indi>
+    <indi id=@I0006@>
+        <name>Charles Philip Arthur George /Windsor/</name>
+        <sex>M</sex>
+        <birt>
+            <date>14 Nov 1948</date>
+        </birt>
+        <famc>@F0001@</famc>
+        <fams>@F0004@</fams>
+    </indi>
+    <indi id=@I0007@>
+        <name>Anne Elizabeth Alice Louise</name>
+        <sex>F</sex>
+        <birt>
+            <date>15 Aug 1950</date>
+        </birt>
+        <famc>@F0001@</famc>
+        <fams>@F0010@</fams>
+    </indi>
+    <indi id=@I0008@>
+        <name>Andrew Albert Christian Edward</name>
+        <sex>M</sex>
+        <birt>
+            <date>19 Feb 1960</date>
+        </birt>
+        <famc>@F0001@</famc>
+    </indi>
+    <indi id=@I0009@>
+        <name>Edward Antony Richard Louis</name>
+        <sex>M</sex>
+        <birt>
+            <date>10 Mar 1964</date>
+        </birt>
+        <famc>@F0001@</famc>
+    </indi>
+    <indi id=@I0010@>
+        <name>Diana /Spencer/</name>
+        <sex>F</sex>
+        <birt>
+            <date>Jul 1961</date>
+        </birt>
+        <deat value="Y">
+            <date>31 Aug 1997</date>
+        </deat>
+        <famc>@F0015@</famc>
+        <fams>@F0004@</fams>
+    </indi>
+    <indi id=@I0011@>
+        <name>William</name>
+        <sex>M</sex>
+        <famc>@F0004@</famc>
+    </indi>
+    <indi id=@I0012@>
+        <name>Harry</name>
+        <sex>M</sex>
+        <famc>@F0004@</famc>
+    </indi>
+    <indi id=@I0013@>
+        <name>George V</name>
+        <sex>M</sex>
+        <birt>
+            <date>1865</date>
+        </birt>
+        <deat value="Y">
+            <date>1936</date>
+        </deat>
+        <famc>@F0006@</famc>
+        <fams>@F0005@</fams>
+        <note>@N0003@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0014@>
+        <name>Elizabeth /Bowes-Lyon/</name>
+        <sex>F</sex>
+        <birt>
+            <date>1900</date>
+        </birt>
+        <famc>@F0011@</famc>
+        <fams>@F0003@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0015@>
+        <name>Margaret Rose</name>
+        <sex>F</sex>
+        <birt>
+            <date>1930</date>
+        </birt>
+        <famc>@F0003@</famc>
+        <fams>@F0016@</fams>
+    </indi>
+    <indi id=@I0016@>
+        <name>Edward VII</name>
+        <sex>M</sex>
+        <birt>
+            <date>1841</date>
+            <plac>Buckinham Palace, London</plac>
+        </birt>
+        <deat value="Y">
+            <date>1910</date>
+        </deat>
+        <famc>@F0007@</famc>
+        <fams>@F0006@</fams>
+        <note>@N0007@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0017@>
+        <name>Albert</name>
+        <sex>M</sex>
+        <birt>
+            <date>1864</date>
+        </birt>
+        <deat value="Y">
+            <date>1892</date>
+        </deat>
+        <titl>Duke of Clarence</titl>
+        <famc>@F0006@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0018@>
+        <name>Alexandra of Denmark</name>
+        <sex>F</sex>
+        <birt>
+            <date>1844</date>
+        </birt>
+        <deat value="Y">
+            <date>1925</date>
+        </deat>
+        <fams>@F0006@</fams>
+        <note>@N0018@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0019@>
+        <name>Mary</name>
+        <sex>F</sex>
+        <titl>May of Teck</titl>
+        <famc>@F0060@</famc>
+        <fams>@F0005@</fams>
+        <note>@N0016@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0020@>
+        <name>Victoria</name>
+        <sex>F</sex>
+        <birt>
+            <date>24 May 1819</date>
+            <plac>Kengsington Palace</plac>
+            <note>@N0012@</note>
+        </birt>
+        <deat value="Y">
+            <date>22 Jan 1901</date>
+            <plac>Osborne House, I of W</plac>
+        </deat>
+        <famc>@F0042@</famc>
+        <fams>@F0007@</fams>
+        <note>@N0009@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0021@>
+        <name>Albert</name>
+        <sex>M</sex>
+        <birt>
+            <date>1819</date>
+        </birt>
+        <deat value="Y">
+            <date>1861</date>
+            <plac>Windsor</plac>
+            <note>@N0011@</note>
+        </deat>
+        <famc>@F0041@</famc>
+        <fams>@F0007@</fams>
+        <note>@N0035@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0022@>
+        <name>Edward VIII</name>
+        <sex>M</sex>
+        <birt>
+            <date>1894</date>
+        </birt>
+        <deat value="Y">
+            <date>1972</date>
+        </deat>
+        <titl>Duke of Windsor</titl>
+        <famc>@F0005@</famc>
+        <fams>@F0008@</fams>
+        <note>@N0008@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0023@>
+        <name>Wallis /Warfield/</name>
+        <sex>F</sex>
+        <fams>@F0022@</fams>
+        <fams>@F0021@</fams>
+        <fams>@F0008@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0024@>
+        <name>Victoria</name>
+        <sex>F</sex>
+        <birt>
+            <date>1840</date>
+        </birt>
+        <deat value="Y">
+            <date>1901</date>
+        </deat>
+        <famc>@F0007@</famc>
+        <fams>@F0009@</fams>
+    </indi>
+    <indi id=@I0025@>
+        <name>Frederick III</name>
+        <sex>M</sex>
+        <birt>
+            <date>1831</date>
+        </birt>
+        <deat value="Y">
+            <date>1888</date>
+        </deat>
+        <fams>@F0009@</fams>
+        <note>@N0010@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0026@>
+        <name>Alice</name>
+        <sex>F</sex>
+        <birt>
+            <date>1843</date>
+        </birt>
+        <deat value="Y">
+            <date>1878</date>
+        </deat>
+        <famc>@F0007@</famc>
+        <fams>@F0025@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0027@>
+        <name>Alfred</name>
+        <sex>M</sex>
+        <birt>
+            <date>1844</date>
+        </birt>
+        <deat value="Y">
+            <date>1900</date>
+        </deat>
+        <famc>@F0007@</famc>
+        <fams>@F0026@</fams>
+        <note>@N0020@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0028@>
+        <name>Helena</name>
+        <sex>F</sex>
+        <birt>
+            <date>1846</date>
+        </birt>
+        <deat value="Y">
+            <date>1923</date>
+        </deat>
+        <famc>@F0007@</famc>
+        <fams>@F0031@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0029@>
+        <name>Arthur</name>
+        <sex>M</sex>
+        <birt>
+            <date>1850</date>
+        </birt>
+        <deat value="Y">
+            <date>1942</date>
+        </deat>
+        <titl>Duke of Connaught</titl>
+        <famc>@F0007@</famc>
+        <fams>@F0032@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0030@>
+        <name>Leopold</name>
+        <sex>M</sex>
+        <birt>
+            <date>1853</date>
+        </birt>
+        <deat value="Y">
+            <date>1884</date>
+        </deat>
+        <famc>@F0007@</famc>
+        <fams>@F0035@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0031@>
+        <name>Beatrice</name>
+        <sex>F</sex>
+        <birt>
+            <date>1857</date>
+        </birt>
+        <deat value="Y">
+            <date>1944</date>
+        </deat>
+        <famc>@F0007@</famc>
+        <fams>@F0036@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0032@>
+        <name>Mark /Phillips/</name>
+        <sex>M</sex>
+        <fams>@F0010@</fams>
+        <chan>
+            <date>13 Dec 2003</date>
+        </chan>
+    </indi>
+    <indi id=@I0033@>
+        <name>Zara</name>
+        <sex>F</sex>
+        <birt>
+            <date>1981</date>
+        </birt>
+        <famc>@F0010@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0034@>
+        <name>Peter</name>
+        <sex>M</sex>
+        <birt>
+            <date>1977</date>
+        </birt>
+        <famc>@F0010@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0035@>
+        <name>Claude</name>
+        <sex>M</sex>
+        <birt>
+            <date>1855</date>
+        </birt>
+        <deat value="Y">
+            <date>1944</date>
+        </deat>
+        <titl>14th Earl of Strathmore</titl>
+        <famc>@F0012@</famc>
+        <fams>@F0011@</fams>
+        <sour>@S0001@</sour>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0036@>
+        <name>Nina Cecilia Cavendish /Bentinck/</name>
+        <sex>F</sex>
+        <fams>@F0011@</fams>
+        <sour>@S0001@</sour>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0037@>
+        <name>Patrick</name>
+        <sex>M</sex>
+        <birt>
+            <date>1884</date>
+        </birt>
+        <deat value="Y">
+            <date>1949</date>
+        </deat>
+        <titl>15th Earl of Strathmore</titl>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0038@>
+        <name>Micheal</name>
+        <sex>M</sex>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0039@>
+        <name>(male)</name>
+        <sex>M</sex>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0040@>
+        <name>(male)</name>
+        <sex>M</sex>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0041@>
+        <name>(male)</name>
+        <sex>M</sex>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0042@>
+        <name>(male)</name>
+        <sex>M</sex>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0043@>
+        <name>(female)</name>
+        <sex>F</sex>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0044@>
+        <name>(female)</name>
+        <sex>F</sex>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0045@>
+        <name>(female)</name>
+        <sex>F</sex>
+        <famc>@F0011@</famc>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0046@>
+        <name>Claude</name>
+        <sex>M</sex>
+        <titl>13th Earl of Strathmore</titl>
+        <famc>@F0013@</famc>
+        <fams>@F0012@</fams>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0047@>
+        <name>Thomas</name>
+        <sex>M</sex>
+        <titl>Lord Glamis</titl>
+        <famc>@F0014@</famc>
+        <fams>@F0013@</fams>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0048@>
+        <name>Thomas</name>
+        <sex>M</sex>
+        <birt>
+            <date>1773</date>
+        </birt>
+        <deat value="Y">
+            <date>1846</date>
+        </deat>
+        <titl>11th Earl of Strathmore</titl>
+        <fams>@F0014@</fams>
+        <chan>
+            <date> 2 Jun 2000</date>
+        </chan>
+    </indi>
+    <indi id=@I0049@>
+        <name>Edward /Spencer/</name>
+        <sex>M</sex>
+        <titl>Earl</titl>
+        <fams>@F0015@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0050@>
+        <name>Anthony /Armstrong-Jones/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1930</date>
+        </birt>
+        <titl>Earl of Snowdon</titl>
+        <fams>@F0016@</fams>
+        <fams>@F0017@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0051@>
+        <name>Lucy /Lindsay-Hogg/</name>
+        <sex>F</sex>
+        <fams>@F0017@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0052@>
+        <name>Mary</name>
+        <sex>F</sex>
+        <birt>
+            <date>1897</date>
+        </birt>
+        <deat value="Y">
+            <date>1965</date>
+        </deat>
+        <famc>@F0005@</famc>
+        <fams>@F0018@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0053@>
+        <name>Henry /Lascelles/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1882</date>
+        </birt>
+        <deat value="Y">
+            <date>1947</date>
+        </deat>
+        <titl>Earl of Harewood</titl>
+        <fams>@F0018@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0054@>
+        <name>Henry</name>
+        <sex>M</sex>
+        <birt>
+            <date>1900</date>
+        </birt>
+        <deat value="Y">
+            <date>1974</date>
+        </deat>
+        <titl>Duke of Gloucester</titl>
+        <famc>@F0005@</famc>
+        <fams>@F0020@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0055@>
+        <name>George</name>
+        <birt>
+            <date>1902</date>
+        </birt>
+        <deat>Y</deat>
+        <titl>Duke ok Kent</titl>
+        <famc>@F0005@</famc>
+        <fams>@F0019@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0056@>
+        <name>John</name>
+        <sex>M</sex>
+        <birt>
+            <date>1905</date>
+        </birt>
+        <deat value="Y">
+            <date>1919</date>
+        </deat>
+        <famc>@F0005@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0057@>
+        <name>Marina</name>
+        <birt>
+            <date>1906</date>
+        </birt>
+        <deat value="Y">
+            <date>1968</date>
+        </deat>
+        <fams>@F0019@</fams>
+        <note>@N0014@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0058@>
+        <name>Alice /Montagu-Douglas-Scott/</name>
+        <sex>F</sex>
+        <fams>@F0020@</fams>
+        <note>@N0015@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0059@>
+        <name>E A /Simpson/</name>
+        <sex>M</sex>
+        <fams>@F0021@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0060@>
+        <name>E W /Spencer/</name>
+        <sex>M</sex>
+        <fams>@F0022@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0061@>
+        <name>Louise Vict.</name>
+        <sex>F</sex>
+        <birt>
+            <date>1867</date>
+        </birt>
+        <deat value="Y">
+            <date>1931</date>
+        </deat>
+        <famc>@F0006@</famc>
+        <fams>@F0023@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0062@>
+        <name>Maud</name>
+        <sex>F</sex>
+        <famc>@F0006@</famc>
+        <fams>@F0024@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0063@>
+        <name>Alexander /Duff/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1849</date>
+        </birt>
+        <deat value="Y">
+            <date>1912</date>
+        </deat>
+        <titl>Duke of Fife</titl>
+        <fams>@F0023@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0064@>
+        <name>Hakon VII</name>
+        <sex>M</sex>
+        <birt>
+            <date>1872</date>
+        </birt>
+        <deat value="Y">
+            <date>1957</date>
+        </deat>
+        <fams>@F0024@</fams>
+        <note>@N0017@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0065@>
+        <name>Louis IV</name>
+        <sex>M</sex>
+        <birt>
+            <date>1837</date>
+        </birt>
+        <deat value="Y">
+            <date>1892</date>
+        </deat>
+        <fams>@F0025@</fams>
+        <note>@N0019@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0066@>
+        <name>Maria</name>
+        <sex>F</sex>
+        <birt>
+            <date>1853</date>
+        </birt>
+        <deat value="Y">
+            <date>1920</date>
+        </deat>
+        <fams>@F0026@</fams>
+        <note>@N0021@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0067@>
+        <name>Alfred</name>
+        <sex>M</sex>
+        <birt>
+            <date>1874</date>
+        </birt>
+        <deat value="Y">
+            <date>1899</date>
+        </deat>
+        <famc>@F0026@</famc>
+        <fams>@F0027@</fams>
+        <note>@N0022@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0068@>
+        <name>Marie</name>
+        <sex>F</sex>
+        <birt>
+            <date>1875</date>
+        </birt>
+        <deat value="Y">
+            <date> 193</date>
+        </deat>
+        <famc>@F0026@</famc>
+        <fams>@F0028@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0069@>
+        <name>Victoria Melita</name>
+        <birt>
+            <date>1876</date>
+        </birt>
+        <deat value="Y">
+            <date>1936</date>
+        </deat>
+        <famc>@F0026@</famc>
+        <fams>@F0029@</fams>
+        <fams>@F0030@</fams>
+        <note>@N0024@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0070@>
+        <name></name>
+        <famc>@F0027@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0071@>
+        <name>Ferdinand I</name>
+        <sex>M</sex>
+        <birt>
+            <date>1865</date>
+        </birt>
+        <deat value="Y">
+            <date>1927</date>
+        </deat>
+        <fams>@F0028@</fams>
+        <note>@N0023@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0072@>
+        <name>Ernest /Louis/</name>
+        <birt>
+            <date>1868</date>
+        </birt>
+        <deat value="Y">
+            <date>1937</date>
+        </deat>
+        <fams>@F0029@</fams>
+        <note>@N0025@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0073@>
+        <name>Cyril</name>
+        <birt>
+            <date>1876</date>
+        </birt>
+        <deat value="Y">
+            <date>1938</date>
+        </deat>
+        <fams>@F0030@</fams>
+        <note>@N0026@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0074@>
+        <name>Christian</name>
+        <sex>M</sex>
+        <birt>
+            <date>1831</date>
+        </birt>
+        <deat value="Y">
+            <date>1917</date>
+        </deat>
+        <fams>@F0031@</fams>
+        <note>@N0027@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0075@>
+        <name>Arthur</name>
+        <sex>M</sex>
+        <birt>
+            <date>1883</date>
+        </birt>
+        <deat value="Y">
+            <date>1938</date>
+        </deat>
+        <famc>@F0032@</famc>
+        <fams>@F0033@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0076@>
+        <name>Margaret</name>
+        <sex>F</sex>
+        <birt>
+            <date>1882</date>
+        </birt>
+        <deat value="Y">
+            <date>1920</date>
+        </deat>
+        <famc>@F0032@</famc>
+        <fams>@F0034@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0077@>
+        <name>Alexandra</name>
+        <sex>F</sex>
+        <birt>
+            <date>1891</date>
+        </birt>
+        <deat value="Y">
+            <date>1951</date>
+        </deat>
+        <famc>@F0023@</famc>
+        <fams>@F0033@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0078@>
+        <name>Alastair</name>
+        <sex>M</sex>
+        <birt>
+            <date>1914</date>
+        </birt>
+        <deat value="Y">
+            <date>1943</date>
+        </deat>
+        <titl>Duke of Connaught</titl>
+        <famc>@F0033@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0079@>
+        <name>Gustavus /Adolphus/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1882</date>
+        </birt>
+        <deat value="Y">
+            <date>1973</date>
+        </deat>
+        <fams>@F0034@</fams>
+        <note>@N0028@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0080@>
+        <name>Louisa</name>
+        <sex>F</sex>
+        <birt>
+            <date>1860</date>
+        </birt>
+        <deat value="Y">
+            <date>1917</date>
+        </deat>
+        <fams>@F0032@</fams>
+        <note>@N0029@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0081@>
+        <name>Helen</name>
+        <sex>F</sex>
+        <birt>
+            <date>1861</date>
+        </birt>
+        <deat value="Y">
+            <date>1922</date>
+        </deat>
+        <fams>@F0035@</fams>
+        <note>@N0030@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0082@>
+        <name>Henry Maurice</name>
+        <sex>M</sex>
+        <birt>
+            <date>1858</date>
+        </birt>
+        <deat value="Y">
+            <date>1896</date>
+        </deat>
+        <fams>@F0036@</fams>
+        <note>@N0031@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0083@>
+        <name>William</name>
+        <sex>M</sex>
+        <birt>
+            <date>1941</date>
+        </birt>
+        <famc>@F0020@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0084@>
+        <name>Richard</name>
+        <sex>M</sex>
+        <birt>
+            <date>1944</date>
+        </birt>
+        <titl>Duke of Gloucester</titl>
+        <famc>@F0020@</famc>
+        <fams>@F0037@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0085@>
+        <name>Birgitte Eva /van Deurs/</name>
+        <sex>F</sex>
+        <birt>
+            <date>1946</date>
+        </birt>
+        <fams>@F0037@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0086@>
+        <name>Alexander</name>
+        <sex>M</sex>
+        <birt>
+            <date>1974</date>
+        </birt>
+        <titl>Earl of Ulster</titl>
+        <famc>@F0037@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0087@>
+        <name>Davina</name>
+        <sex>F</sex>
+        <birt>
+            <date>1978</date>
+        </birt>
+        <famc>@F0037@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0088@>
+        <name>Rose</name>
+        <sex>F</sex>
+        <birt>
+            <date>1980</date>
+        </birt>
+        <famc>@F0037@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0089@>
+        <name>Edward</name>
+        <sex>M</sex>
+        <birt>
+            <date>1935</date>
+        </birt>
+        <titl>Duke of Kent</titl>
+        <famc>@F0019@</famc>
+        <fams>@F0038@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0090@>
+        <name>Alexandra</name>
+        <sex>F</sex>
+        <birt>
+            <date>1936</date>
+        </birt>
+        <titl>Princess Alexandra of Kent</titl>
+        <famc>@F0019@</famc>
+        <fams>@F0039@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0091@>
+        <name>Michael</name>
+        <sex>M</sex>
+        <birt>
+            <date>1942</date>
+        </birt>
+        <famc>@F0019@</famc>
+        <fams>@F0040@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0092@>
+        <name>Katharine</name>
+        <sex>F</sex>
+        <birt>
+            <date>1933</date>
+        </birt>
+        <fams>@F0038@</fams>
+        <note>@N0032@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0093@>
+        <name>George</name>
+        <sex>M</sex>
+        <birt>
+            <date>1962</date>
+        </birt>
+        <titl>Earl of St Andrews</titl>
+        <famc>@F0038@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0094@>
+        <name>Helen</name>
+        <sex>F</sex>
+        <birt>
+            <date>1964</date>
+        </birt>
+        <famc>@F0038@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0095@>
+        <name>Nicholas</name>
+        <sex>M</sex>
+        <birt>
+            <date>1970</date>
+        </birt>
+        <famc>@F0038@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0096@>
+        <name>Angus /Ogilvy/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1928</date>
+        </birt>
+        <fams>@F0039@</fams>
+        <note>@N0033@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0097@>
+        <name>Marie Christine</name>
+        <sex>F</sex>
+        <birt>
+            <date>1945</date>
+        </birt>
+        <fams>@F0040@</fams>
+        <note>@N0034@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0098@>
+        <name>Frederick</name>
+        <sex>M</sex>
+        <birt>
+            <date>1979</date>
+        </birt>
+        <famc>@F0040@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0099@>
+        <name>Gabriela</name>
+        <sex>F</sex>
+        <birt>
+            <date>1981</date>
+        </birt>
+        <famc>@F0040@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0101@>
+        <name>Edward</name>
+        <sex>M</sex>
+        <birt>
+            <date>1767</date>
+        </birt>
+        <deat value="Y">
+            <date>1820</date>
+        </deat>
+        <titl>Duke of Kent</titl>
+        <famc>@F0043@</famc>
+        <fams>@F0042@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0102@>
+        <name>Victoria</name>
+        <sex>F</sex>
+        <birt>
+            <date>1786</date>
+        </birt>
+        <deat value="Y">
+            <date>1861</date>
+        </deat>
+        <fams>@F0042@</fams>
+        <note>@N0036@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0103@>
+        <name>George III</name>
+        <sex>M</sex>
+        <birt>
+            <date>1738</date>
+        </birt>
+        <deat value="Y">
+            <date>1820</date>
+        </deat>
+        <famc>@F0044@</famc>
+        <fams>@F0043@</fams>
+        <note>@N0045@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0104@>
+        <name>Marina</name>
+        <sex>F</sex>
+        <famc>@F0039@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0105@>
+        <name>James</name>
+        <sex>M</sex>
+        <famc>@F0039@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0106@>
+        <name>Frederick Lewis</name>
+        <sex>M</sex>
+        <birt>
+            <date>1707</date>
+        </birt>
+        <deat value="Y">
+            <date>1751</date>
+        </deat>
+        <titl>Prince of Wales</titl>
+        <famc>@F0045@</famc>
+        <fams>@F0044@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0107@>
+        <name>George II</name>
+        <sex>M</sex>
+        <birt>
+            <date>1683</date>
+        </birt>
+        <deat value="Y">
+            <date>1760</date>
+        </deat>
+        <famc>@F0046@</famc>
+        <fams>@F0045@</fams>
+        <note>@N0038@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0108@>
+        <name>George I</name>
+        <sex>M</sex>
+        <birt>
+            <date>1660</date>
+        </birt>
+        <deat value="Y">
+            <date>1727</date>
+        </deat>
+        <famc>@F0061@</famc>
+        <fams>@F0046@</fams>
+        <note>@N0080@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0109@>
+        <name>Sophia /Dorothea/</name>
+        <sex>F</sex>
+        <fams>@F0046@</fams>
+        <note>@N0037@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0110@>
+        <name>Sophia Dorothea</name>
+        <sex>F</sex>
+        <famc>@F0046@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0111@>
+        <name>Caroline</name>
+        <sex>F</sex>
+        <birt>
+            <date>1683</date>
+        </birt>
+        <deat value="Y">
+            <date>1737</date>
+        </deat>
+        <fams>@F0045@</fams>
+        <note>@N0039@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0112@>
+        <name>Anne</name>
+        <sex>F</sex>
+        <famc>@F0045@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0113@>
+        <name>William Aug.</name>
+        <sex>M</sex>
+        <famc>@F0045@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0114@>
+        <name>Mary</name>
+        <sex>F</sex>
+        <famc>@F0045@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0115@>
+        <name>Louisa</name>
+        <birt>
+            <date>1724</date>
+        </birt>
+        <deat value="Y">
+            <date>1751</date>
+        </deat>
+        <famc>@F0045@</famc>
+        <fams>@F0047@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0116@>
+        <name>Frederick V</name>
+        <birt>
+            <date>1723</date>
+        </birt>
+        <deat value="Y">
+            <date>1766</date>
+        </deat>
+        <fams>@F0047@</fams>
+        <note>@N0040@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0117@>
+        <name>Christian VII</name>
+        <sex>M</sex>
+        <birt>
+            <date>1749</date>
+        </birt>
+        <deat value="Y">
+            <date>1808</date>
+        </deat>
+        <famc>@F0047@</famc>
+        <fams>@F0048@</fams>
+        <note>@N0041@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0118@>
+        <name>Caroline Matilda</name>
+        <sex>F</sex>
+        <birt>
+            <date>1751</date>
+        </birt>
+        <deat value="Y">
+            <date>1775</date>
+        </deat>
+        <famc>@F0044@</famc>
+        <fams>@F0048@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0119@>
+        <name>Augusta</name>
+        <sex>F</sex>
+        <birt>
+            <date>1719</date>
+        </birt>
+        <deat value="Y">
+            <date>1772</date>
+        </deat>
+        <fams>@F0044@</fams>
+        <note>@N0042@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0120@>
+        <name>Augusta</name>
+        <sex>F</sex>
+        <birt>
+            <date>1737</date>
+        </birt>
+        <deat value="Y">
+            <date>1806</date>
+        </deat>
+        <famc>@F0044@</famc>
+        <fams>@F0049@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0121@>
+        <name>Edward Aug.</name>
+        <sex>M</sex>
+        <famc>@F0044@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0122@>
+        <name>William Henry</name>
+        <sex>M</sex>
+        <birt>
+            <date>1743</date>
+        </birt>
+        <deat value="Y">
+            <date>1805</date>
+        </deat>
+        <titl>Duke of Gloucester</titl>
+        <famc>@F0044@</famc>
+        <fams>@F0052@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0123@>
+        <name>Henry Fred.</name>
+        <sex>M</sex>
+        <famc>@F0044@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0124@>
+        <name>Charlotte</name>
+        <sex>F</sex>
+        <birt>
+            <date>1744</date>
+        </birt>
+        <deat value="Y">
+            <date>1818</date>
+        </deat>
+        <fams>@F0043@</fams>
+        <note>@N0043@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0125@>
+        <name>Charles William /Ferd./</name>
+        <sex>M</sex>
+        <fams>@F0049@</fams>
+        <note>@N0044@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0126@>
+        <name>Caroline</name>
+        <sex>F</sex>
+        <birt>
+            <date>1768</date>
+        </birt>
+        <deat value="Y">
+            <date>1821</date>
+        </deat>
+        <famc>@F0049@</famc>
+        <fams>@F0050@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0127@>
+        <name>George IV</name>
+        <sex>M</sex>
+        <birt>
+            <date>1762</date>
+        </birt>
+        <deat value="Y">
+            <date>1830</date>
+        </deat>
+        <famc>@F0043@</famc>
+        <fams>@F0050@</fams>
+        <note>@N0046@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0128@>
+        <name>Charlotte</name>
+        <sex>F</sex>
+        <birt>
+            <date>1796</date>
+        </birt>
+        <deat value="Y">
+            <date>1817</date>
+        </deat>
+        <famc>@F0050@</famc>
+        <fams>@F0051@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0129@>
+        <name>Leopold</name>
+        <sex>M</sex>
+        <birt>
+            <date>1790</date>
+        </birt>
+        <deat value="Y">
+            <date>1865</date>
+        </deat>
+        <fams>@F0051@</fams>
+        <note>@N0047@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0130@>
+        <name>Frederick</name>
+        <sex>M</sex>
+        <birt>
+            <date>1763</date>
+        </birt>
+        <deat value="Y">
+            <date>1827</date>
+        </deat>
+        <titl>Duke of York</titl>
+        <famc>@F0043@</famc>
+        <fams>@F0054@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0131@>
+        <name>William IV</name>
+        <sex>M</sex>
+        <birt>
+            <date>1765</date>
+        </birt>
+        <deat value="Y">
+            <date>1837</date>
+        </deat>
+        <famc>@F0043@</famc>
+        <fams>@F0055@</fams>
+        <note>@N0049@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0132@>
+        <name>Ernest Aug.</name>
+        <sex>M</sex>
+        <birt>
+            <date>1771</date>
+        </birt>
+        <deat value="Y">
+            <date>1851</date>
+        </deat>
+        <titl>Duke of Cumberland</titl>
+        <famc>@F0043@</famc>
+        <fams>@F0056@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0133@>
+        <name>Augustus</name>
+        <sex>M</sex>
+        <birt>
+            <date>1773</date>
+        </birt>
+        <deat value="Y">
+            <date>1843</date>
+        </deat>
+        <titl>Duke of Sussex</titl>
+        <famc>@F0043@</famc>
+        <fams>@F0057@</fams>
+        <fams>@F0058@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0134@>
+        <name>Adolphus</name>
+        <sex>M</sex>
+        <birt>
+            <date>1774</date>
+        </birt>
+        <deat value="Y">
+            <date>1850</date>
+        </deat>
+        <famc>@F0043@</famc>
+        <fams>@F0059@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0135@>
+        <name>Mary</name>
+        <sex>F</sex>
+        <birt>
+            <date>1776</date>
+        </birt>
+        <deat value="Y">
+            <date>1857</date>
+        </deat>
+        <famc>@F0043@</famc>
+        <fams>@F0053@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0136@>
+        <name>Maria /Waldegrave/</name>
+        <sex>F</sex>
+        <fams>@F0052@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0137@>
+        <name>William</name>
+        <sex>M</sex>
+        <birt>
+            <date>1766</date>
+        </birt>
+        <deat value="Y">
+            <date>1834</date>
+        </deat>
+        <titl>Duke of Gloucester</titl>
+        <famc>@F0052@</famc>
+        <fams>@F0053@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0138@>
+        <name>Frederica</name>
+        <sex>F</sex>
+        <birt>
+            <date>1767</date>
+        </birt>
+        <deat value="Y">
+            <date>1820</date>
+        </deat>
+        <fams>@F0054@</fams>
+        <note>@N0048@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0139@>
+        <name>Adelaide</name>
+        <sex>F</sex>
+        <birt>
+            <date>1792</date>
+        </birt>
+        <deat value="Y">
+            <date>1849</date>
+        </deat>
+        <fams>@F0055@</fams>
+        <note>@N0050@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0140@>
+        <name>Frederica</name>
+        <sex>F</sex>
+        <birt>
+            <date>1778</date>
+        </birt>
+        <deat value="Y">
+            <date>1841</date>
+        </deat>
+        <fams>@F0056@</fams>
+        <note>@N0051@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0141@>
+        <name>Augusta Murray</name>
+        <sex>F</sex>
+        <birt>
+            <date>1768</date>
+        </birt>
+        <deat value="Y">
+            <date>1830</date>
+        </deat>
+        <fams>@F0057@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0142@>
+        <name>Cecilia Underwood</name>
+        <sex>F</sex>
+        <birt>
+            <date>1785</date>
+        </birt>
+        <deat value="Y">
+            <date>1873</date>
+        </deat>
+        <titl>D of Inverness</titl>
+        <fams>@F0058@</fams>
+        <note>@N0053@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0143@>
+        <name>Augusta</name>
+        <sex>F</sex>
+        <birt>
+            <date>1797</date>
+        </birt>
+        <deat value="Y">
+            <date>1889</date>
+        </deat>
+        <fams>@F0059@</fams>
+        <note>@N0054@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0144@>
+        <name>George</name>
+        <sex>M</sex>
+        <famc>@F0059@</famc>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0145@>
+        <name>Mary Adelaide</name>
+        <sex>F</sex>
+        <birt>
+            <date>1833</date>
+        </birt>
+        <deat value="Y">
+            <date>1897</date>
+        </deat>
+        <famc>@F0059@</famc>
+        <fams>@F0060@</fams>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0146@>
+        <name>Francis //</name>
+        <sex>M</sex>
+        <birt>
+            <date>1837</date>
+        </birt>
+        <deat value="Y">
+            <date>1900</date>
+        </deat>
+        <titl>Duke of Teck</titl>
+        <fams>@F0060@</fams>
+        <note>@N0055@</note>
+        <chan>
+            <date> 6 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0147@>
+        <name>Ernest Aug.</name>
+        <sex>M</sex>
+        <birt>
+            <date>1629</date>
+        </birt>
+        <deat value="Y">
+            <date>1698</date>
+        </deat>
+        <fams>@F0061@</fams>
+        <note>@N0056@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0148@>
+        <name>Sophia</name>
+        <sex>F</sex>
+        <birt>
+            <date>1630</date>
+        </birt>
+        <deat value="Y">
+            <date>1714</date>
+        </deat>
+        <famc>@F0062@</famc>
+        <fams>@F0061@</fams>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0149@>
+        <name>Frederick V</name>
+        <sex>M</sex>
+        <birt>
+            <date>1596</date>
+        </birt>
+        <deat value="Y">
+            <date>1632</date>
+        </deat>
+        <fams>@F0062@</fams>
+        <note>@N0057@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0150@>
+        <name>Elizabeth</name>
+        <sex>F</sex>
+        <birt>
+            <date>1596</date>
+        </birt>
+        <deat value="Y">
+            <date>1662</date>
+        </deat>
+        <famc>@F0063@</famc>
+        <fams>@F0062@</fams>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0151@>
+        <name>James I (VI)</name>
+        <sex>M</sex>
+        <birt>
+            <date>1566</date>
+        </birt>
+        <deat value="Y">
+            <date>1625</date>
+        </deat>
+        <famc>@F0075@</famc>
+        <fams>@F0063@</fams>
+        <note>@N0078@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0152@>
+        <name>Henry Fred.</name>
+        <sex>M</sex>
+        <birt>
+            <date>1594</date>
+        </birt>
+        <deat value="Y">
+            <date>1612</date>
+        </deat>
+        <famc>@F0063@</famc>
+        <note>@N0077@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0153@>
+        <name>Charles I</name>
+        <sex>M</sex>
+        <birt>
+            <date>1600</date>
+        </birt>
+        <deat value="Y">
+            <date>1649</date>
+        </deat>
+        <famc>@F0063@</famc>
+        <fams>@F0064@</fams>
+        <note>@N0058@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0154@>
+        <name>Henrietta Maria</name>
+        <sex>F</sex>
+        <birt>
+            <date>1609</date>
+        </birt>
+        <deat value="Y">
+            <date>1669</date>
+        </deat>
+        <fams>@F0064@</fams>
+        <note>@N0059@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0155@>
+        <name>Charles II</name>
+        <sex>M</sex>
+        <birt>
+            <date>1630</date>
+        </birt>
+        <deat value="Y">
+            <date>1685</date>
+        </deat>
+        <famc>@F0064@</famc>
+        <note>@N0064@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0156@>
+        <name>Mary</name>
+        <sex>F</sex>
+        <birt>
+            <date>1631</date>
+        </birt>
+        <deat value="Y">
+            <date>1660</date>
+        </deat>
+        <famc>@F0064@</famc>
+        <fams>@F0065@</fams>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0157@>
+        <name>James II</name>
+        <sex>M</sex>
+        <birt>
+            <date>1633</date>
+        </birt>
+        <deat value="Y">
+            <date>1701</date>
+        </deat>
+        <famc>@F0064@</famc>
+        <fams>@F0066@</fams>
+        <fams>@F0067@</fams>
+        <note>@N0063@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0158@>
+        <name>Henry</name>
+        <sex>M</sex>
+        <birt>
+            <date>1640</date>
+        </birt>
+        <deat value="Y">
+            <date>1660</date>
+        </deat>
+        <famc>@F0064@</famc>
+        <note>@N0074@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0159@>
+        <name>Henrietta</name>
+        <sex>F</sex>
+        <birt>
+            <date>1644</date>
+        </birt>
+        <deat value="Y">
+            <date>1670</date>
+        </deat>
+        <famc>@F0064@</famc>
+        <fams>@F0073@</fams>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0160@>
+        <name>William II</name>
+        <sex>M</sex>
+        <birt>
+            <date>1626</date>
+        </birt>
+        <deat value="Y">
+            <date>1650</date>
+        </deat>
+        <fams>@F0065@</fams>
+        <note>@N0060@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0161@>
+        <name>Anne /Hyde/</name>
+        <sex>F</sex>
+        <birt>
+            <date>1637</date>
+        </birt>
+        <deat value="Y">
+            <date>1671</date>
+        </deat>
+        <fams>@F0066@</fams>
+        <note>@N0061@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0162@>
+        <name>Mary /d'Este/</name>
+        <sex>F</sex>
+        <birt>
+            <date>1658</date>
+        </birt>
+        <deat value="Y">
+            <date>1718</date>
+        </deat>
+        <fams>@F0067@</fams>
+        <note>@N0062@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0163@>
+        <name>William III</name>
+        <sex>M</sex>
+        <birt>
+            <date>1650</date>
+        </birt>
+        <deat value="Y">
+            <date>1702</date>
+        </deat>
+        <famc>@F0065@</famc>
+        <fams>@F0069@</fams>
+        <note>@N0065@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0165@>
+        <name>Mary II</name>
+        <sex>F</sex>
+        <birt>
+            <date>1662</date>
+        </birt>
+        <deat value="Y">
+            <date>1694</date>
+        </deat>
+        <famc>@F0066@</famc>
+        <fams>@F0069@</fams>
+        <note>@N0066@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0166@>
+        <name>Anne</name>
+        <sex>F</sex>
+        <birt>
+            <date>1665</date>
+        </birt>
+        <deat value="Y">
+            <date>1714</date>
+        </deat>
+        <famc>@F0066@</famc>
+        <fams>@F0070@</fams>
+        <note>@N0067@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0167@>
+        <name>George</name>
+        <sex>M</sex>
+        <birt>
+            <date>1653</date>
+        </birt>
+        <deat value="Y">
+            <date>1708</date>
+        </deat>
+        <fams>@F0070@</fams>
+        <note>@N0068@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0168@>
+        <name>William</name>
+        <sex>M</sex>
+        <birt>
+            <date>1689</date>
+        </birt>
+        <deat value="Y">
+            <date>1700</date>
+        </deat>
+        <famc>@F0070@</famc>
+        <note>@N0069@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0169@>
+        <name>James</name>
+        <sex>M</sex>
+        <birt>
+            <date>1688</date>
+        </birt>
+        <deat value="Y">
+            <date>1766</date>
+        </deat>
+        <famc>@F0067@</famc>
+        <fams>@F0071@</fams>
+        <note>@N0070@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0170@>
+        <name>Mary /Clementina/</name>
+        <sex>F</sex>
+        <fams>@F0071@</fams>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0171@>
+        <name>Charles Edward</name>
+        <sex>M</sex>
+        <birt>
+            <date>1720</date>
+        </birt>
+        <deat value="Y">
+            <date>1788</date>
+        </deat>
+        <famc>@F0071@</famc>
+        <fams>@F0072@</fams>
+        <note>@N0072@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0172@>
+        <name>Henry Benedict</name>
+        <sex>M</sex>
+        <birt>
+            <date>1725</date>
+        </birt>
+        <deat value="Y">
+            <date>1807</date>
+        </deat>
+        <famc>@F0071@</famc>
+        <note>@N0071@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0173@>
+        <name>Louise</name>
+        <sex>F</sex>
+        <birt>
+            <date>1752</date>
+        </birt>
+        <deat value="Y">
+            <date>1824</date>
+        </deat>
+        <fams>@F0072@</fams>
+        <note>@N0073@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0174@>
+        <name>Philip</name>
+        <sex>M</sex>
+        <birt>
+            <date>1640</date>
+        </birt>
+        <deat value="Y">
+            <date>1701</date>
+        </deat>
+        <fams>@F0073@</fams>
+        <fams>@F0074@</fams>
+        <note>@N0075@</note>
+        <chan>
+            <date> 7 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0175@>
+        <name>Charlotte</name>
+        <sex>F</sex>
+        <fams>@F0074@</fams>
+        <note>@N0076@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0176@>
+        <name>Anne</name>
+        <sex>F</sex>
+        <birt>
+            <date>1574</date>
+        </birt>
+        <deat value="Y">
+            <date>1619</date>
+        </deat>
+        <fams>@F0063@</fams>
+        <note>@N0079@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0177@>
+        <name>(male) /()/</name>
+        <sex>M</sex>
+        <fams>@F0041@</fams>
+    </indi>
+    <indi id=@I0178@>
+        <name>Henry</name>
+        <sex>M</sex>
+        <birt>
+            <date>1545</date>
+        </birt>
+        <deat value="Y">
+            <date>1567</date>
+        </deat>
+        <famc>@F0081@</famc>
+        <fams>@F0075@</fams>
+        <note>@N0081@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0179@>
+        <name>Mary //</name>
+        <sex>F</sex>
+        <birt>
+            <date>1542</date>
+        </birt>
+        <deat value="Y">
+            <date>1587</date>
+        </deat>
+        <famc>@F0078@</famc>
+        <fams>@F0076@</fams>
+        <fams>@F0075@</fams>
+        <fams>@F0077@</fams>
+        <note>@N0083@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0180@>
+        <name>Francis II</name>
+        <sex>M</sex>
+        <birt>
+            <date>1544</date>
+        </birt>
+        <deat value="Y">
+            <date>1560</date>
+        </deat>
+        <fams>@F0076@</fams>
+        <note>@N0082@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0181@>
+        <name>James /Hepburn/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1536</date>
+        </birt>
+        <deat value="Y">
+            <date>1578</date>
+        </deat>
+        <fams>@F0077@</fams>
+        <note>@N0084@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0182@>
+        <name>James V</name>
+        <sex>M</sex>
+        <birt>
+            <date>1512</date>
+        </birt>
+        <deat value="Y">
+            <date>1542</date>
+        </deat>
+        <famc>@F0079@</famc>
+        <fams>@F0078@</fams>
+        <note>@N0085@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0183@>
+        <name>James IV</name>
+        <sex>M</sex>
+        <birt>
+            <date>1473</date>
+        </birt>
+        <deat value="Y">
+            <date>1513</date>
+        </deat>
+        <fams>@F0079@</fams>
+        <note>@N0086@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0184@>
+        <name>Margaret</name>
+        <sex>F</sex>
+        <birt>
+            <date>1489</date>
+        </birt>
+        <deat value="Y">
+            <date>1541</date>
+        </deat>
+        <famc>@F0083@</famc>
+        <fams>@F0079@</fams>
+        <fams>@F0080@</fams>
+        <fams>@F0082@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0185@>
+        <name>Archibold /Douglas/</name>
+        <sex>M</sex>
+        <fams>@F0080@</fams>
+        <note>@N0087@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0186@>
+        <name>Margaret</name>
+        <sex>F</sex>
+        <birt>
+            <date>1515</date>
+        </birt>
+        <deat value="Y">
+            <date>1578</date>
+        </deat>
+        <famc>@F0080@</famc>
+        <fams>@F0081@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0187@>
+        <name>Matthew /Stewart/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1516</date>
+        </birt>
+        <deat value="Y">
+            <date>1571</date>
+        </deat>
+        <fams>@F0081@</fams>
+        <note>@N0088@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0188@>
+        <name>Henry Stewart</name>
+        <sex>M</sex>
+        <fams>@F0082@</fams>
+        <note>@N0089@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0189@>
+        <name>Henry VII</name>
+        <sex>M</sex>
+        <birt>
+            <date>1457</date>
+        </birt>
+        <deat value="Y">
+            <date>1509</date>
+        </deat>
+        <famc>@F0100@</famc>
+        <fams>@F0083@</fams>
+        <note>@N0107@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0190@>
+        <name>Elizabeth</name>
+        <sex>F</sex>
+        <birt>
+            <date>1466</date>
+        </birt>
+        <deat value="Y">
+            <date>1503</date>
+        </deat>
+        <fams>@F0083@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0191@>
+        <name>Arthur</name>
+        <sex>M</sex>
+        <birt>
+            <date>1486</date>
+        </birt>
+        <deat value="Y">
+            <date>1502</date>
+        </deat>
+        <famc>@F0083@</famc>
+        <fams>@F0084@</fams>
+        <note>@N0090@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0192@>
+        <name>Henry VIII</name>
+        <sex>M</sex>
+        <birt>
+            <date>1491</date>
+        </birt>
+        <deat value="Y">
+            <date>1547</date>
+        </deat>
+        <famc>@F0083@</famc>
+        <fams>@F0085@</fams>
+        <fams>@F0087@</fams>
+        <fams>@F0088@</fams>
+        <fams>@F0089@</fams>
+        <fams>@F0090@</fams>
+        <fams>@F0091@</fams>
+        <note>@N0091@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0193@>
+        <name>Mary</name>
+        <sex>F</sex>
+        <birt>
+            <date>1496</date>
+        </birt>
+        <deat value="Y">
+            <date>1533</date>
+        </deat>
+        <famc>@F0083@</famc>
+        <fams>@F0092@</fams>
+        <fams>@F0093@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0194@>
+        <name>Catherine</name>
+        <sex>F</sex>
+        <birt>
+            <date>1485</date>
+        </birt>
+        <deat value="Y">
+            <date>1536</date>
+        </deat>
+        <fams>@F0084@</fams>
+        <fams>@F0085@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0195@>
+        <name>Mary I</name>
+        <sex>F</sex>
+        <birt>
+            <date>1516</date>
+        </birt>
+        <deat value="Y">
+            <date>1558</date>
+        </deat>
+        <famc>@F0085@</famc>
+        <fams>@F0086@</fams>
+        <note>@N0093@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0196@>
+        <name>Philip II</name>
+        <sex>M</sex>
+        <birt>
+            <date>1527</date>
+        </birt>
+        <deat value="Y">
+            <date>1598</date>
+        </deat>
+        <fams>@F0086@</fams>
+        <note>@N0092@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0197@>
+        <name>Anne /Boleyn/</name>
+        <sex>F</sex>
+        <birt>
+            <date>1501</date>
+        </birt>
+        <deat value="Y">
+            <date>1536</date>
+        </deat>
+        <fams>@F0087@</fams>
+        <note>@N0094@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0199@>
+        <name>Jane /Seymour/</name>
+        <sex>F</sex>
+        <fams>@F0088@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0201@>
+        <name>Anne of Cleves</name>
+        <sex>F</sex>
+        <deat value="Y">
+            <date>1557</date>
+        </deat>
+        <fams>@F0089@</fams>
+        <note>@N0096@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0202@>
+        <name>Catherine /Howard/</name>
+        <sex>F</sex>
+        <deat value="Y">
+            <date>1542</date>
+        </deat>
+        <fams>@F0090@</fams>
+        <note>@N0095@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0203@>
+        <name>Catherine /Parr/</name>
+        <sex>F</sex>
+        <deat value="Y">
+            <date>1548</date>
+        </deat>
+        <fams>@F0091@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0204@>
+        <name>Elizabeth I</name>
+        <sex>F</sex>
+        <birt>
+            <date>1533</date>
+        </birt>
+        <deat value="Y">
+            <date>1603</date>
+        </deat>
+        <famc>@F0087@</famc>
+        <note>@N0097@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0205@>
+        <name>Edward VI</name>
+        <sex>M</sex>
+        <birt>
+            <date>1537</date>
+        </birt>
+        <deat value="Y">
+            <date>1553</date>
+        </deat>
+        <famc>@F0088@</famc>
+        <note>@N0098@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0206@>
+        <name>Mary de Guise</name>
+        <sex>F</sex>
+        <birt>
+            <date>1515</date>
+        </birt>
+        <deat value="Y">
+            <date>1560</date>
+        </deat>
+        <fams>@F0078@</fams>
+        <note>@N0099@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0207@>
+        <name>Louis XII</name>
+        <sex>M</sex>
+        <birt>
+            <date>1462</date>
+        </birt>
+        <deat value="Y">
+            <date>1515</date>
+        </deat>
+        <fams>@F0092@</fams>
+        <note>@N0100@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0208@>
+        <name>Charles /Brandon/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1484</date>
+        </birt>
+        <deat value="Y">
+            <date>1545</date>
+        </deat>
+        <fams>@F0093@</fams>
+        <note>@N0101@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0209@>
+        <name>Frances</name>
+        <sex>F</sex>
+        <birt>
+            <date>1517</date>
+        </birt>
+        <deat value="Y">
+            <date>1559</date>
+        </deat>
+        <famc>@F0093@</famc>
+        <fams>@F0094@</fams>
+        <fams>@F0095@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0210@>
+        <name>Henry /Gray/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1508</date>
+        </birt>
+        <deat value="Y">
+            <date>1554</date>
+        </deat>
+        <fams>@F0094@</fams>
+        <note>@N0102@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0211@>
+        <name>Jane</name>
+        <sex>F</sex>
+        <birt>
+            <date>1537</date>
+        </birt>
+        <deat value="Y">
+            <date>1554</date>
+        </deat>
+        <famc>@F0094@</famc>
+        <fams>@F0096@</fams>
+        <note>@N0103@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0212@>
+        <name>Adrian /Stokes/</name>
+        <sex>M</sex>
+        <deat value="Y">
+            <date>1581</date>
+        </deat>
+        <fams>@F0095@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0213@>
+        <name>Guilford /Dudley/</name>
+        <sex>M</sex>
+        <deat value="Y">
+            <date>1554</date>
+        </deat>
+        <fams>@F0096@</fams>
+        <note>@N0104@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0214@>
+        <name>Charles</name>
+        <sex>M</sex>
+        <birt>
+            <date>1555</date>
+        </birt>
+        <deat value="Y">
+            <date>1576</date>
+        </deat>
+        <famc>@F0081@</famc>
+        <fams>@F0097@</fams>
+        <note>@N0105@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0215@>
+        <name>Elizabeth</name>
+        <sex>F</sex>
+        <fams>@F0097@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0216@>
+        <name>Arabella</name>
+        <sex>F</sex>
+        <birt>
+            <date>1575</date>
+        </birt>
+        <deat value="Y">
+            <date>1615</date>
+        </deat>
+        <famc>@F0097@</famc>
+        <fams>@F0098@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0217@>
+        <name>William /Seymour/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1588</date>
+        </birt>
+        <deat value="Y">
+            <date>1660</date>
+        </deat>
+        <fams>@F0098@</fams>
+        <fams>@F0099@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0218@>
+        <name>Frances /Deveraux/</name>
+        <sex>F</sex>
+        <fams>@F0099@</fams>
+        <note>@N0106@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0219@>
+        <name>Edmund</name>
+        <sex>M</sex>
+        <birt>
+            <date>1430</date>
+        </birt>
+        <deat value="Y">
+            <date>1456</date>
+        </deat>
+        <famc>@F0101@</famc>
+        <fams>@F0100@</fams>
+        <note>@N0108@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0220@>
+        <name>Margaret</name>
+        <sex>F</sex>
+        <birt>
+            <date>1443</date>
+        </birt>
+        <deat value="Y">
+            <date>1509</date>
+        </deat>
+        <famc>@F0124@</famc>
+        <fams>@F0100@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0221@>
+        <name>Owen /Tudor/</name>
+        <sex>M</sex>
+        <birt>
+            <date>ABT 1400</date>
+        </birt>
+        <deat value="Y">
+            <date>1461</date>
+        </deat>
+        <fams>@F0101@</fams>
+        <note>@N0109@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0222@>
+        <name>Catherine</name>
+        <sex>F</sex>
+        <birt>
+            <date>1401</date>
+        </birt>
+        <deat value="Y">
+            <date>1438</date>
+        </deat>
+        <fams>@F0101@</fams>
+        <fams>@F0103@</fams>
+        <note>@N0110@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0223@>
+        <name>Jasper</name>
+        <sex>M</sex>
+        <birt>
+            <date>1431</date>
+        </birt>
+        <deat value="Y">
+            <date>1495</date>
+        </deat>
+        <famc>@F0101@</famc>
+        <fams>@F0102@</fams>
+        <note>@N0111@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0224@>
+        <name>Catherine /Widville/</name>
+        <sex>F</sex>
+        <fams>@F0102@</fams>
+        <note>@N0112@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0225@>
+        <name>Henry V</name>
+        <sex>M</sex>
+        <birt>
+            <date>1387</date>
+        </birt>
+        <deat value="Y">
+            <date>1422</date>
+        </deat>
+        <famc>@F0107@</famc>
+        <fams>@F0103@</fams>
+        <note>@N0113@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0226@>
+        <name>Henry VI</name>
+        <sex>M</sex>
+        <birt>
+            <date>1421</date>
+        </birt>
+        <deat value="Y">
+            <date>1471</date>
+        </deat>
+        <famc>@F0103@</famc>
+        <fams>@F0104@</fams>
+        <note>@N0114@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0227@>
+        <name>Margaret of Anjou</name>
+        <sex>F</sex>
+        <birt>
+            <date>1430</date>
+        </birt>
+        <deat value="Y">
+            <date>1482</date>
+        </deat>
+        <fams>@F0104@</fams>
+        <note>@N0115@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0228@>
+        <name>Edward</name>
+        <sex>M</sex>
+        <birt>
+            <date>1453</date>
+        </birt>
+        <deat value="Y">
+            <date>1471</date>
+        </deat>
+        <famc>@F0104@</famc>
+        <fams>@F0105@</fams>
+        <note>@N0116@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0229@>
+        <name>Anne /Neville/</name>
+        <sex>F</sex>
+        <famc>@F0119@</famc>
+        <fams>@F0105@</fams>
+        <fams>@F0106@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0230@>
+        <name>Richard III</name>
+        <sex>M</sex>
+        <birt>
+            <date>1452</date>
+        </birt>
+        <deat value="Y">
+            <date>1485</date>
+        </deat>
+        <fams>@F0106@</fams>
+        <note>@N0117@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0231@>
+        <name>Henry IV</name>
+        <sex>M</sex>
+        <birt>
+            <date>1366</date>
+        </birt>
+        <deat value="Y">
+            <date>1413</date>
+        </deat>
+        <famc>@F0108@</famc>
+        <fams>@F0107@</fams>
+        <note>@N0118@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0232@>
+        <name>Mary /Bohun/</name>
+        <sex>F</sex>
+        <deat value="Y">
+            <date>1394</date>
+        </deat>
+        <fams>@F0107@</fams>
+        <note>@N0119@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0233@>
+        <name>John of Gaunt</name>
+        <sex>M</sex>
+        <birt>
+            <date>1340</date>
+        </birt>
+        <deat value="Y">
+            <date>1399</date>
+        </deat>
+        <famc>@F0109@</famc>
+        <fams>@F0108@</fams>
+        <fams>@F0116@</fams>
+        <note>@N0120@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0234@>
+        <name>Blanche</name>
+        <sex>F</sex>
+        <birt>
+            <date>1345</date>
+        </birt>
+        <deat value="Y">
+            <date>1369</date>
+        </deat>
+        <fams>@F0108@</fams>
+        <note>@N0121@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0235@>
+        <name>Edward III</name>
+        <sex>M</sex>
+        <birt>
+            <date>1312</date>
+        </birt>
+        <deat value="Y">
+            <date>1377</date>
+        </deat>
+        <fams>@F0109@</fams>
+        <note>@N0122@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0236@>
+        <name>Philippa of Hainault</name>
+        <sex>F</sex>
+        <birt>
+            <date>1314</date>
+        </birt>
+        <deat value="Y">
+            <date>1369</date>
+        </deat>
+        <fams>@F0109@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0237@>
+        <name>(male)</name>
+        <sex>M</sex>
+        <famc>@F0109@</famc>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0238@>
+        <name>Lionel of Antwerp</name>
+        <sex>M</sex>
+        <birt>
+            <date>1338</date>
+        </birt>
+        <deat value="Y">
+            <date>1368</date>
+        </deat>
+        <famc>@F0109@</famc>
+        <fams>@F0110@</fams>
+        <note>@N0124@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0239@>
+        <name>Edmund of Langley</name>
+        <sex>M</sex>
+        <famc>@F0109@</famc>
+        <fams>@F0113@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0240@>
+        <name>Philippa</name>
+        <sex>F</sex>
+        <birt>
+            <date>1355</date>
+        </birt>
+        <deat value="Y">
+            <date>1381</date>
+        </deat>
+        <famc>@F0110@</famc>
+        <fams>@F0111@</fams>
+        <note>@N0125@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0241@>
+        <name>Elizabeth de Burgh</name>
+        <sex>F</sex>
+        <birt>
+            <date>1332</date>
+        </birt>
+        <deat value="Y">
+            <date>1363</date>
+        </deat>
+        <fams>@F0110@</fams>
+        <note>@N0123@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0242@>
+        <name>Edmund /Mortimer/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1352</date>
+        </birt>
+        <deat value="Y">
+            <date>1381</date>
+        </deat>
+        <fams>@F0111@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0243@>
+        <name>Roger</name>
+        <sex>M</sex>
+        <birt>
+            <date>1373</date>
+        </birt>
+        <deat value="Y">
+            <date>1398</date>
+        </deat>
+        <famc>@F0111@</famc>
+        <fams>@F0112@</fams>
+        <note>@N0126@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0244@>
+        <name>Anne</name>
+        <sex>F</sex>
+        <birt>
+            <date>1390</date>
+        </birt>
+        <deat value="Y">
+            <date>1411</date>
+        </deat>
+        <famc>@F0112@</famc>
+        <fams>@F0114@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0245@>
+        <name>Eleanore</name>
+        <sex>F</sex>
+        <deat value="Y">
+            <date>1405</date>
+        </deat>
+        <fams>@F0112@</fams>
+        <note>@N0127@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0246@>
+        <name>Isabel</name>
+        <sex>F</sex>
+        <fams>@F0113@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0247@>
+        <name>Richard of Conisburgh</name>
+        <sex>M</sex>
+        <birt>
+            <date>1376</date>
+        </birt>
+        <deat value="Y">
+            <date>1415</date>
+        </deat>
+        <famc>@F0113@</famc>
+        <fams>@F0114@</fams>
+        <note>@N0128@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0248@>
+        <name>Richard</name>
+        <sex>M</sex>
+        <birt>
+            <date>1411</date>
+        </birt>
+        <deat value="Y">
+            <date>1460</date>
+        </deat>
+        <famc>@F0114@</famc>
+        <fams>@F0115@</fams>
+        <note>@N0129@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0249@>
+        <name>Cicely /Neville/</name>
+        <sex>F</sex>
+        <birt>
+            <date>1415</date>
+        </birt>
+        <deat value="Y">
+            <date>1495</date>
+        </deat>
+        <famc>@F0117@</famc>
+        <fams>@F0115@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0250@>
+        <name>Catherine /Roelt/</name>
+        <sex>F</sex>
+        <fams>@F0116@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0251@>
+        <name>John /Beaufort/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1371</date>
+        </birt>
+        <deat value="Y">
+            <date>1410</date>
+        </deat>
+        <famc>@F0116@</famc>
+        <fams>@F0121@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0252@>
+        <name>Joan</name>
+        <sex>F</sex>
+        <deat value="Y">
+            <date>1445</date>
+        </deat>
+        <famc>@F0116@</famc>
+        <fams>@F0120@</fams>
+        <fams>@F0117@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0253@>
+        <name>Ralph /Neville/</name>
+        <sex>M</sex>
+        <birt>
+            <date>1363</date>
+        </birt>
+        <deat value="Y">
+            <date>1425</date>
+        </deat>
+        <fams>@F0117@</fams>
+        <note>@N0133@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0254@>
+        <name>Richard</name>
+        <sex>M</sex>
+        <birt>
+            <date>1400</date>
+        </birt>
+        <deat value="Y">
+            <date>1460</date>
+        </deat>
+        <famc>@F0117@</famc>
+        <fams>@F0118@</fams>
+        <note>@N0130@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0255@>
+        <name>Alice /Montague/</name>
+        <sex>F</sex>
+        <birt>
+            <date>1406</date>
+        </birt>
+        <deat value="Y">
+            <date>1462</date>
+        </deat>
+        <fams>@F0118@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0256@>
+        <name>Richard</name>
+        <sex>M</sex>
+        <birt>
+            <date>1428</date>
+        </birt>
+        <deat value="Y">
+            <date>1471</date>
+        </deat>
+        <famc>@F0118@</famc>
+        <fams>@F0119@</fams>
+        <note>@N0131@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0257@>
+        <name>Anne</name>
+        <sex>F</sex>
+        <birt>
+            <date>1429</date>
+        </birt>
+        <deat value="Y">
+            <date>1492</date>
+        </deat>
+        <fams>@F0119@</fams>
+        <note>@N0132@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0258@>
+        <name>Robert /Ferrers/</name>
+        <sex>M</sex>
+        <fams>@F0120@</fams>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0259@>
+        <name>Margaret /Holand/</name>
+        <sex>F</sex>
+        <birt>
+            <date>1385</date>
+        </birt>
+        <deat value="Y">
+            <date>1439</date>
+        </deat>
+        <fams>@F0121@</fams>
+        <fams>@F0123@</fams>
+        <note>@N0134@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0261@>
+        <name>Thomas</name>
+        <sex>M</sex>
+        <deat value="Y">
+            <date>1421</date>
+        </deat>
+        <fams>@F0123@</fams>
+        <note>@N0135@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0262@>
+        <name>John</name>
+        <sex>M</sex>
+        <birt>
+            <date>1404</date>
+        </birt>
+        <deat value="Y">
+            <date>1444</date>
+        </deat>
+        <famc>@F0121@</famc>
+        <fams>@F0124@</fams>
+        <note>@N0136@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <indi id=@I0263@>
+        <name>Margaret</name>
+        <sex>F</sex>
+        <deat value="Y">
+            <date>1482</date>
+        </deat>
+        <fams>@F0124@</fams>
+        <note>@N0137@</note>
+        <chan>
+            <date> 8 Mar 2004</date>
+        </chan>
+    </indi>
+    <fam id=@F0001@>
+        <husb>@I0002@</husb>
+        <wife>@I0001@</wife>
+        <marr>
+            <date>20 Nov 1947</date>
+            <plac>Westminster Abbey, London</plac>
+        </marr>
+        <chil>@I0006@</chil>
+        <chil>@I0007@</chil>
+        <chil>@I0008@</chil>
+        <chil>@I0009@</chil>
+    </fam>
+    <fam id=@F0002@>
+        <husb>@I0003@</husb>
+        <wife>@I0004@</wife>
+        <marr></marr>
+        <chil>@I0002@</chil>
+    </fam>
+    <fam id=@F0003@>
+        <husb>@I0005@</husb>
+        <wife>@I0014@</wife>
+        <marr>
+            <date>1923</date>
+        </marr>
+        <chil>@I0001@</chil>
+        <chil>@I0015@</chil>
+    </fam>
+    <fam id=@F0004@>
+        <husb>@I0006@</husb>
+        <wife>@I0010@</wife>
+        <marr>
+            <date>28 Jul 1981</date>
+        </marr>
+        <chil>@I0011@</chil>
+        <chil>@I0012@</chil>
+    </fam>
+    <fam id=@F0005@>
+        <husb>@I0013@</husb>
+        <wife>@I0019@</wife>
+        <marr>
+            <date>1893</date>
+        </marr>
+        <chil>@I0022@</chil>
+        <chil>@I0005@</chil>
+        <chil>@I0052@</chil>
+        <chil>@I0054@</chil>
+        <chil>@I0055@</chil>
+        <chil>@I0056@</chil>
+        <note>@N0005@</note>
+    </fam>
+    <fam id=@F0006@>
+        <husb>@I0016@</husb>
+        <wife>@I0018@</wife>
+        <marr>
+            <date>1863</date>
+        </marr>
+        <chil>@I0017@</chil>
+        <chil>@I0013@</chil>
+        <chil>@I0061@</chil>
+        <chil>@I0062@</chil>
+        <note>@N0006@</note>
+    </fam>
+    <fam id=@F0007@>
+        <husb>@I0021@</husb>
+        <wife>@I0020@</wife>
+        <marr></marr>
+        <chil>@I0024@</chil>
+        <chil>@I0016@</chil>
+        <chil>@I0026@</chil>
+        <chil>@I0027@</chil>
+        <chil>@I0028@</chil>
+        <chil>@I0029@</chil>
+        <chil>@I0030@</chil>
+        <chil>@I0031@</chil>
+    </fam>
+    <fam id=@F0008@>
+        <husb>@I0022@</husb>
+        <wife>@I0023@</wife>
+        <marr>
+            <date> 3 Jun 1937</date>
+            <plac>Chateau de Cande, Tours, France</plac>
+        </marr>
+    </fam>
+    <fam id=@F0009@>
+        <husb>@I0025@</husb>
+        <wife>@I0024@</wife>
+        <marr>
+            <date>1858</date>
+        </marr>
+    </fam>
+    <fam id=@F0010@>
+        <husb>@I0032@</husb>
+        <wife>@I0007@</wife>
+        <marr>
+            <date>1973</date>
+        </marr>
+        <chil>@I0034@</chil>
+        <chil>@I0033@</chil>
+    </fam>
+    <fam id=@F0011@>
+        <husb>@I0035@</husb>
+        <wife>@I0036@</wife>
+        <marr></marr>
+        <chil>@I0037@</chil>
+        <chil>@I0038@</chil>
+        <chil>@I0039@</chil>
+        <chil>@I0040@</chil>
+        <chil>@I0041@</chil>
+        <chil>@I0042@</chil>
+        <chil>@I0043@</chil>
+        <chil>@I0044@</chil>
+        <chil>@I0045@</chil>
+        <chil>@I0014@</chil>
+    </fam>
+    <fam id=@F0012@>
+        <husb>@I0046@</husb>
+        <chil>@I0035@</chil>
+    </fam>
+    <fam id=@F0013@>
+        <husb>@I0047@</husb>
+        <chil>@I0046@</chil>
+    </fam>
+    <fam id=@F0014@>
+        <husb>@I0048@</husb>
+        <chil>@I0047@</chil>
+    </fam>
+    <fam id=@F0015@>
+        <husb>@I0049@</husb>
+        <chil>@I0010@</chil>
+    </fam>
+    <fam id=@F0016@>
+        <husb>@I0050@</husb>
+        <wife>@I0015@</wife>
+        <marr>
+            <date>1960</date>
+        </marr>
+        <div>
+            <date>1978</date>
+        </div>
+    </fam>
+    <fam id=@F0017@>
+        <husb>@I0050@</husb>
+        <wife>@I0051@</wife>
+        <marr>
+            <date>1978</date>
+        </marr>
+    </fam>
+    <fam id=@F0018@>
+        <husb>@I0053@</husb>
+        <wife>@I0052@</wife>
+        <marr>
+            <date>1922</date>
+        </marr>
+    </fam>
+    <fam id=@F0019@>
+        <husb>@I0055@</husb>
+        <wife>@I0057@</wife>
+        <marr>
+            <date>1934</date>
+        </marr>
+        <chil>@I0089@</chil>
+        <chil>@I0090@</chil>
+        <chil>@I0091@</chil>
+    </fam>
+    <fam id=@F0020@>
+        <husb>@I0054@</husb>
+        <wife>@I0058@</wife>
+        <marr>
+            <date>1935</date>
+        </marr>
+        <chil>@I0083@</chil>
+        <chil>@I0084@</chil>
+    </fam>
+    <fam id=@F0021@>
+        <husb>@I0059@</husb>
+        <wife>@I0023@</wife>
+        <marr>
+            <date>1928</date>
+        </marr>
+        <div>
+            <date>1936</date>
+        </div>
+    </fam>
+    <fam id=@F0022@>
+        <husb>@I0060@</husb>
+        <wife>@I0023@</wife>
+        <marr>
+            <date>1916</date>
+        </marr>
+        <div>
+            <date>1927</date>
+        </div>
+    </fam>
+    <fam id=@F0023@>
+        <husb>@I0063@</husb>
+        <wife>@I0061@</wife>
+        <marr>
+            <date>1889</date>
+        </marr>
+        <chil>@I0077@</chil>
+    </fam>
+    <fam id=@F0024@>
+        <husb>@I0064@</husb>
+        <wife>@I0062@</wife>
+    </fam>
+    <fam id=@F0025@>
+        <husb>@I0065@</husb>
+        <wife>@I0026@</wife>
+        <marr>
+            <date>1862</date>
+        </marr>
+    </fam>
+    <fam id=@F0026@>
+        <husb>@I0027@</husb>
+        <wife>@I0066@</wife>
+        <marr>
+            <date>1874</date>
+        </marr>
+        <chil>@I0067@</chil>
+        <chil>@I0068@</chil>
+        <chil>@I0069@</chil>
+    </fam>
+    <fam id=@F0027@>
+        <husb>@I0067@</husb>
+        <chil>@I0070@</chil>
+    </fam>
+    <fam id=@F0028@>
+        <husb>@I0071@</husb>
+        <wife>@I0068@</wife>
+        <marr>
+            <date>1893</date>
+        </marr>
+    </fam>
+    <fam id=@F0029@>
+        <husb>@I0069@</husb>
+        <wife>@I0072@</wife>
+        <marr>
+            <date>1894</date>
+        </marr>
+        <div>
+            <date>1901</date>
+        </div>
+    </fam>
+    <fam id=@F0030@>
+        <husb>@I0069@</husb>
+        <wife>@I0073@</wife>
+        <marr>
+            <date>1905</date>
+        </marr>
+    </fam>
+    <fam id=@F0031@>
+        <husb>@I0074@</husb>
+        <wife>@I0028@</wife>
+        <marr>
+            <date>1866</date>
+        </marr>
+    </fam>
+    <fam id=@F0032@>
+        <husb>@I0029@</husb>
+        <wife>@I0080@</wife>
+        <marr>
+            <date>1879</date>
+        </marr>
+        <chil>@I0075@</chil>
+        <chil>@I0076@</chil>
+    </fam>
+    <fam id=@F0033@>
+        <husb>@I0075@</husb>
+        <wife>@I0077@</wife>
+        <marr>
+            <date>1913</date>
+        </marr>
+        <chil>@I0078@</chil>
+    </fam>
+    <fam id=@F0034@>
+        <husb>@I0079@</husb>
+        <wife>@I0076@</wife>
+        <marr>
+            <date>1905</date>
+        </marr>
+    </fam>
+    <fam id=@F0035@>
+        <husb>@I0030@</husb>
+        <wife>@I0081@</wife>
+        <marr>
+            <date>1882</date>
+        </marr>
+    </fam>
+    <fam id=@F0036@>
+        <husb>@I0082@</husb>
+        <wife>@I0031@</wife>
+        <marr>
+            <date>1885</date>
+        </marr>
+    </fam>
+    <fam id=@F0037@>
+        <husb>@I0084@</husb>
+        <wife>@I0085@</wife>
+        <marr>
+            <date>1972</date>
+        </marr>
+        <chil>@I0086@</chil>
+        <chil>@I0087@</chil>
+        <chil>@I0088@</chil>
+    </fam>
+    <fam id=@F0038@>
+        <husb>@I0089@</husb>
+        <wife>@I0092@</wife>
+        <marr>
+            <date>1961</date>
+            <plac>York Minster</plac>
+        </marr>
+        <chil>@I0093@</chil>
+        <chil>@I0094@</chil>
+        <chil>@I0095@</chil>
+    </fam>
+    <fam id=@F0039@>
+        <husb>@I0096@</husb>
+        <wife>@I0090@</wife>
+        <marr>
+            <date>1963</date>
+        </marr>
+        <chil>@I0104@</chil>
+        <chil>@I0105@</chil>
+    </fam>
+    <fam id=@F0040@>
+        <husb>@I0091@</husb>
+        <wife>@I0097@</wife>
+        <marr>
+            <date>1978</date>
+        </marr>
+        <chil>@I0098@</chil>
+        <chil>@I0099@</chil>
+    </fam>
+    <fam id=@F0041@>
+        <husb>@I0177@</husb>
+        <chil>@I0021@</chil>
+    </fam>
+    <fam id=@F0042@>
+        <husb>@I0101@</husb>
+        <wife>@I0102@</wife>
+        <marr>
+            <date>1818</date>
+        </marr>
+        <chil>@I0020@</chil>
+    </fam>
+    <fam id=@F0043@>
+        <husb>@I0103@</husb>
+        <wife>@I0124@</wife>
+        <marr>
+            <date>1761</date>
+        </marr>
+        <chil>@I0127@</chil>
+        <chil>@I0130@</chil>
+        <chil>@I0131@</chil>
+        <chil>@I0101@</chil>
+        <chil>@I0132@</chil>
+        <chil>@I0133@</chil>
+        <chil>@I0134@</chil>
+        <chil>@I0135@</chil>
+    </fam>
+    <fam id=@F0044@>
+        <husb>@I0106@</husb>
+        <wife>@I0119@</wife>
+        <marr>
+            <date>1736</date>
+        </marr>
+        <chil>@I0120@</chil>
+        <chil>@I0103@</chil>
+        <chil>@I0121@</chil>
+        <chil>@I0122@</chil>
+        <chil>@I0123@</chil>
+        <chil>@I0118@</chil>
+    </fam>
+    <fam id=@F0045@>
+        <husb>@I0107@</husb>
+        <wife>@I0111@</wife>
+        <marr>
+            <date>1705</date>
+        </marr>
+        <chil>@I0106@</chil>
+        <chil>@I0112@</chil>
+        <chil>@I0113@</chil>
+        <chil>@I0114@</chil>
+        <chil>@I0115@</chil>
+    </fam>
+    <fam id=@F0046@>
+        <husb>@I0108@</husb>
+        <wife>@I0109@</wife>
+        <marr>
+            <date>1682</date>
+        </marr>
+        <chil>@I0107@</chil>
+        <chil>@I0110@</chil>
+    </fam>
+    <fam id=@F0047@>
+        <husb>@I0115@</husb>
+        <wife>@I0116@</wife>
+        <marr>
+            <date>1743</date>
+        </marr>
+        <chil>@I0117@</chil>
+    </fam>
+    <fam id=@F0048@>
+        <husb>@I0117@</husb>
+        <wife>@I0118@</wife>
+        <marr>
+            <date>1766</date>
+        </marr>
+        <div>
+            <date>1772</date>
+        </div>
+    </fam>
+    <fam id=@F0049@>
+        <husb>@I0125@</husb>
+        <wife>@I0120@</wife>
+        <marr>
+            <date>1764</date>
+        </marr>
+        <chil>@I0126@</chil>
+    </fam>
+    <fam id=@F0050@>
+        <husb>@I0127@</husb>
+        <wife>@I0126@</wife>
+        <chil>@I0128@</chil>
+    </fam>
+    <fam id=@F0051@>
+        <husb>@I0129@</husb>
+        <wife>@I0128@</wife>
+        <marr>
+            <date>1816</date>
+        </marr>
+    </fam>
+    <fam id=@F0052@>
+        <husb>@I0122@</husb>
+        <wife>@I0136@</wife>
+        <marr>
+            <date>1766</date>
+        </marr>
+        <chil>@I0137@</chil>
+    </fam>
+    <fam id=@F0053@>
+        <husb>@I0137@</husb>
+        <wife>@I0135@</wife>
+        <marr>
+            <date>1816</date>
+        </marr>
+    </fam>
+    <fam id=@F0054@>
+        <husb>@I0130@</husb>
+        <wife>@I0138@</wife>
+        <marr>
+            <date>1791</date>
+        </marr>
+    </fam>
+    <fam id=@F0055@>
+        <husb>@I0131@</husb>
+        <wife>@I0139@</wife>
+        <marr>
+            <date>1818</date>
+        </marr>
+    </fam>
+    <fam id=@F0056@>
+        <husb>@I0132@</husb>
+        <wife>@I0140@</wife>
+        <marr>
+            <date>1815</date>
+        </marr>
+    </fam>
+    <fam id=@F0057@>
+        <husb>@I0133@</husb>
+        <wife>@I0141@</wife>
+        <marr>
+            <date>1793</date>
+        </marr>
+        <div>
+            <date>1794</date>
+        </div>
+        <note>@N0052@</note>
+    </fam>
+    <fam id=@F0058@>
+        <husb>@I0133@</husb>
+        <wife>@I0142@</wife>
+        <marr>
+            <date>1831</date>
+        </marr>
+    </fam>
+    <fam id=@F0059@>
+        <husb>@I0134@</husb>
+        <wife>@I0143@</wife>
+        <marr>
+            <date>1818</date>
+        </marr>
+        <chil>@I0144@</chil>
+        <chil>@I0145@</chil>
+    </fam>
+    <fam id=@F0060@>
+        <husb>@I0146@</husb>
+        <wife>@I0145@</wife>
+        <marr>
+            <date>1866</date>
+        </marr>
+        <chil>@I0019@</chil>
+    </fam>
+    <fam id=@F0061@>
+        <husb>@I0147@</husb>
+        <wife>@I0148@</wife>
+        <marr>
+            <date>1658</date>
+        </marr>
+        <chil>@I0108@</chil>
+    </fam>
+    <fam id=@F0062@>
+        <husb>@I0149@</husb>
+        <wife>@I0150@</wife>
+        <marr>
+            <date>1613</date>
+        </marr>
+        <chil>@I0148@</chil>
+    </fam>
+    <fam id=@F0063@>
+        <husb>@I0151@</husb>
+        <wife>@I0176@</wife>
+        <marr>
+            <date>1589</date>
+        </marr>
+        <chil>@I0152@</chil>
+        <chil>@I0150@</chil>
+        <chil>@I0153@</chil>
+    </fam>
+    <fam id=@F0064@>
+        <husb>@I0153@</husb>
+        <wife>@I0154@</wife>
+        <marr>
+            <date>1625</date>
+        </marr>
+        <chil>@I0155@</chil>
+        <chil>@I0156@</chil>
+        <chil>@I0157@</chil>
+        <chil>@I0158@</chil>
+        <chil>@I0159@</chil>
+    </fam>
+    <fam id=@F0065@>
+        <husb>@I0160@</husb>
+        <wife>@I0156@</wife>
+        <marr>
+            <date>1641</date>
+        </marr>
+        <chil>@I0163@</chil>
+    </fam>
+    <fam id=@F0066@>
+        <husb>@I0157@</husb>
+        <wife>@I0161@</wife>
+        <marr>
+            <date>1659</date>
+        </marr>
+        <chil>@I0165@</chil>
+        <chil>@I0166@</chil>
+    </fam>
+    <fam id=@F0067@>
+        <husb>@I0157@</husb>
+        <wife>@I0162@</wife>
+        <marr>
+            <date>1673</date>
+        </marr>
+        <chil>@I0169@</chil>
+    </fam>
+    <fam id=@F0069@>
+        <husb>@I0163@</husb>
+        <wife>@I0165@</wife>
+        <marr>
+            <date>1677</date>
+        </marr>
+    </fam>
+    <fam id=@F0070@>
+        <husb>@I0167@</husb>
+        <wife>@I0166@</wife>
+        <marr>
+            <date>1683</date>
+        </marr>
+        <chil>@I0168@</chil>
+    </fam>
+    <fam id=@F0071@>
+        <husb>@I0169@</husb>
+        <wife>@I0170@</wife>
+        <marr>
+            <date>1719</date>
+        </marr>
+        <chil>@I0171@</chil>
+        <chil>@I0172@</chil>
+    </fam>
+    <fam id=@F0072@>
+        <husb>@I0171@</husb>
+        <wife>@I0173@</wife>
+        <marr>
+            <date>1772</date>
+        </marr>
+    </fam>
+    <fam id=@F0073@>
+        <husb>@I0174@</husb>
+        <wife>@I0159@</wife>
+        <marr>
+            <date>1661</date>
+        </marr>
+    </fam>
+    <fam id=@F0074@>
+        <husb>@I0174@</husb>
+        <wife>@I0175@</wife>
+        <marr>
+            <date>1671</date>
+        </marr>
+    </fam>
+    <fam id=@F0075@>
+        <husb>@I0178@</husb>
+        <wife>@I0179@</wife>
+        <marr>
+            <date>1565</date>
+        </marr>
+        <chil>@I0151@</chil>
+    </fam>
+    <fam id=@F0076@>
+        <husb>@I0180@</husb>
+        <wife>@I0179@</wife>
+        <marr>
+            <date>1558</date>
+        </marr>
+    </fam>
+    <fam id=@F0077@>
+        <husb>@I0181@</husb>
+        <wife>@I0179@</wife>
+        <marr>
+            <date>1567</date>
+        </marr>
+    </fam>
+    <fam id=@F0078@>
+        <husb>@I0182@</husb>
+        <wife>@I0206@</wife>
+        <marr>
+            <date>1538</date>
+        </marr>
+        <chil>@I0179@</chil>
+    </fam>
+    <fam id=@F0079@>
+        <husb>@I0183@</husb>
+        <wife>@I0184@</wife>
+        <marr>
+            <date>1503</date>
+        </marr>
+        <chil>@I0182@</chil>
+    </fam>
+    <fam id=@F0080@>
+        <husb>@I0185@</husb>
+        <wife>@I0184@</wife>
+        <marr>
+            <date>1514</date>
+        </marr>
+        <chil>@I0186@</chil>
+    </fam>
+    <fam id=@F0081@>
+        <husb>@I0187@</husb>
+        <wife>@I0186@</wife>
+        <marr>
+            <date>1544</date>
+        </marr>
+        <chil>@I0178@</chil>
+        <chil>@I0214@</chil>
+    </fam>
+    <fam id=@F0082@>
+        <husb>@I0188@</husb>
+        <wife>@I0184@</wife>
+        <marr>
+            <date>1528</date>
+        </marr>
+    </fam>
+    <fam id=@F0083@>
+        <husb>@I0189@</husb>
+        <wife>@I0190@</wife>
+        <marr>
+            <date>1486</date>
+        </marr>
+        <chil>@I0191@</chil>
+        <chil>@I0192@</chil>
+        <chil>@I0184@</chil>
+        <chil>@I0193@</chil>
+    </fam>
+    <fam id=@F0084@>
+        <husb>@I0191@</husb>
+        <wife>@I0194@</wife>
+        <marr>
+            <date>1501</date>
+        </marr>
+    </fam>
+    <fam id=@F0085@>
+        <husb>@I0192@</husb>
+        <wife>@I0194@</wife>
+        <marr>
+            <date>1509</date>
+        </marr>
+        <chil>@I0195@</chil>
+    </fam>
+    <fam id=@F0086@>
+        <husb>@I0196@</husb>
+        <wife>@I0195@</wife>
+        <marr>
+            <date>1554</date>
+        </marr>
+    </fam>
+    <fam id=@F0087@>
+        <husb>@I0192@</husb>
+        <wife>@I0197@</wife>
+        <marr>
+            <date>1533</date>
+        </marr>
+        <chil>@I0204@</chil>
+    </fam>
+    <fam id=@F0088@>
+        <husb>@I0192@</husb>
+        <wife>@I0199@</wife>
+        <marr>
+            <date>1536</date>
+        </marr>
+        <chil>@I0205@</chil>
+    </fam>
+    <fam id=@F0089@>
+        <husb>@I0192@</husb>
+        <wife>@I0201@</wife>
+        <marr>
+            <date>1539</date>
+        </marr>
+    </fam>
+    <fam id=@F0090@>
+        <husb>@I0192@</husb>
+        <wife>@I0202@</wife>
+        <marr>
+            <date>1540</date>
+        </marr>
+    </fam>
+    <fam id=@F0091@>
+        <husb>@I0192@</husb>
+        <wife>@I0203@</wife>
+        <marr>
+            <date>1543</date>
+        </marr>
+    </fam>
+    <fam id=@F0092@>
+        <husb>@I0207@</husb>
+        <wife>@I0193@</wife>
+        <marr>
+            <date>1514</date>
+        </marr>
+    </fam>
+    <fam id=@F0093@>
+        <husb>@I0208@</husb>
+        <wife>@I0193@</wife>
+        <marr>
+            <date>1515</date>
+        </marr>
+        <chil>@I0209@</chil>
+    </fam>
+    <fam id=@F0094@>
+        <husb>@I0210@</husb>
+        <wife>@I0209@</wife>
+        <marr>
+            <date>1534</date>
+        </marr>
+        <chil>@I0211@</chil>
+    </fam>
+    <fam id=@F0095@>
+        <husb>@I0212@</husb>
+        <wife>@I0209@</wife>
+        <marr>
+            <date>1554</date>
+        </marr>
+    </fam>
+    <fam id=@F0096@>
+        <husb>@I0213@</husb>
+        <wife>@I0211@</wife>
+        <marr>
+            <date>1553</date>
+        </marr>
+    </fam>
+    <fam id=@F0097@>
+        <husb>@I0214@</husb>
+        <wife>@I0215@</wife>
+        <marr>
+            <date>1574</date>
+        </marr>
+        <chil>@I0216@</chil>
+    </fam>
+    <fam id=@F0098@>
+        <husb>@I0217@</husb>
+        <wife>@I0216@</wife>
+        <marr>
+            <date>1610</date>
+        </marr>
+    </fam>
+    <fam id=@F0099@>
+        <husb>@I0217@</husb>
+        <wife>@I0218@</wife>
+        <marr>
+            <date>1616</date>
+        </marr>
+    </fam>
+    <fam id=@F0100@>
+        <husb>@I0219@</husb>
+        <wife>@I0220@</wife>
+        <marr>
+            <date>1455</date>
+        </marr>
+        <chil>@I0189@</chil>
+    </fam>
+    <fam id=@F0101@>
+        <husb>@I0221@</husb>
+        <wife>@I0222@</wife>
+        <marr>
+            <date>1428</date>
+        </marr>
+        <chil>@I0219@</chil>
+        <chil>@I0223@</chil>
+    </fam>
+    <fam id=@F0102@>
+        <husb>@I0223@</husb>
+        <wife>@I0224@</wife>
+        <marr>
+            <date>1491</date>
+        </marr>
+    </fam>
+    <fam id=@F0103@>
+        <husb>@I0225@</husb>
+        <wife>@I0222@</wife>
+        <marr>
+            <date>1420</date>
+        </marr>
+        <chil>@I0226@</chil>
+    </fam>
+    <fam id=@F0104@>
+        <husb>@I0226@</husb>
+        <wife>@I0227@</wife>
+        <marr>
+            <date>1445</date>
+        </marr>
+        <chil>@I0228@</chil>
+    </fam>
+    <fam id=@F0105@>
+        <husb>@I0228@</husb>
+        <wife>@I0229@</wife>
+        <marr>
+            <date>1470</date>
+        </marr>
+    </fam>
+    <fam id=@F0106@>
+        <husb>@I0230@</husb>
+        <wife>@I0229@</wife>
+        <marr>
+            <date>1474</date>
+        </marr>
+    </fam>
+    <fam id=@F0107@>
+        <husb>@I0231@</husb>
+        <wife>@I0232@</wife>
+        <marr>
+            <date>1380</date>
+        </marr>
+        <chil>@I0225@</chil>
+    </fam>
+    <fam id=@F0108@>
+        <husb>@I0233@</husb>
+        <wife>@I0234@</wife>
+        <marr>
+            <date>1359</date>
+        </marr>
+        <chil>@I0231@</chil>
+    </fam>
+    <fam id=@F0109@>
+        <husb>@I0235@</husb>
+        <wife>@I0236@</wife>
+        <marr>
+            <date>1329</date>
+        </marr>
+        <chil>@I0237@</chil>
+        <chil>@I0238@</chil>
+        <chil>@I0233@</chil>
+        <chil>@I0239@</chil>
+    </fam>
+    <fam id=@F0110@>
+        <husb>@I0238@</husb>
+        <wife>@I0241@</wife>
+        <marr>
+            <date>1352</date>
+        </marr>
+        <chil>@I0240@</chil>
+    </fam>
+    <fam id=@F0111@>
+        <husb>@I0242@</husb>
+        <wife>@I0240@</wife>
+        <marr>
+            <date>1368</date>
+        </marr>
+        <chil>@I0243@</chil>
+    </fam>
+    <fam id=@F0112@>
+        <husb>@I0243@</husb>
+        <wife>@I0245@</wife>
+        <marr>
+            <date>1388</date>
+        </marr>
+        <chil>@I0244@</chil>
+    </fam>
+    <fam id=@F0113@>
+        <husb>@I0239@</husb>
+        <wife>@I0246@</wife>
+        <marr>
+            <date>1371</date>
+        </marr>
+        <chil>@I0247@</chil>
+    </fam>
+    <fam id=@F0114@>
+        <husb>@I0247@</husb>
+        <wife>@I0244@</wife>
+        <marr>
+            <date>1406</date>
+        </marr>
+        <chil>@I0248@</chil>
+    </fam>
+    <fam id=@F0115@>
+        <husb>@I0248@</husb>
+        <wife>@I0249@</wife>
+        <marr>
+            <date>1438</date>
+        </marr>
+    </fam>
+    <fam id=@F0116@>
+        <husb>@I0233@</husb>
+        <wife>@I0250@</wife>
+        <marr>
+            <date>1396</date>
+        </marr>
+        <chil>@I0251@</chil>
+        <chil>@I0252@</chil>
+    </fam>
+    <fam id=@F0117@>
+        <husb>@I0253@</husb>
+        <wife>@I0252@</wife>
+        <marr>
+            <date>1398</date>
+        </marr>
+        <chil>@I0254@</chil>
+        <chil>@I0249@</chil>
+    </fam>
+    <fam id=@F0118@>
+        <husb>@I0254@</husb>
+        <wife>@I0255@</wife>
+        <marr>
+            <date>1428</date>
+        </marr>
+        <chil>@I0256@</chil>
+    </fam>
+    <fam id=@F0119@>
+        <husb>@I0256@</husb>
+        <wife>@I0257@</wife>
+        <marr>
+            <date>1434</date>
+        </marr>
+        <chil>@I0229@</chil>
+    </fam>
+    <fam id=@F0120@>
+        <husb>@I0258@</husb>
+        <wife>@I0252@</wife>
+        <marr></marr>
+    </fam>
+    <fam id=@F0121@>
+        <husb>@I0251@</husb>
+        <wife>@I0259@</wife>
+        <marr>
+            <date>1399</date>
+        </marr>
+        <chil>@I0262@</chil>
+    </fam>
+    <fam id=@F0123@>
+        <husb>@I0261@</husb>
+        <wife>@I0259@</wife>
+        <marr>
+            <date>1412</date>
+        </marr>
+    </fam>
+    <fam id=@F0124@>
+        <husb>@I0262@</husb>
+        <wife>@I0263@</wife>
+        <marr>
+            <date>1439</date>
+        </marr>
+        <chil>@I0220@</chil>
+    </fam>
+    <note id=@N0001@>
+        <conc>Took surname Mountbatten in March 1947</conc>
+        <cont>Known as "Phil the Greek"</cont>
+    </note>
+    <note id=@N0002@>
+        <conc>Born at home of Maternal grandparents</conc>
+        <cont>Educated privately</cont>
+        <cont>Coronation in 1953</cont>
+    </note>
+    <note id=@N0003@>
+        <conc>Succeeded father in 1910, crowned 1911</conc>
+    </note>
+    <note id=@N0004@>
+        <conc>Created Duke of York 1920</conc>
+        <cont>Succeeded to throne on Edward VIII's abdication in 1936, crowned 1937</cont>
+    </note>
+    <note id=@N0005@>
+        <conc>5 sons and 1 dau</conc>
+    </note>
+    <note id=@N0006@>
+        <cont>Total of 6 children</cont>
+    </note>
+    <note id=@N0007@>
+        <conc>King of Gt Britain, </conc>
+        <cont>Succeeded to throne in 1901, crowned 1902</cont>
+    </note>
+    <note id=@N0008@>
+        <conc>Created Prince of Wales in 1910</conc>
+        <cont>Succeeded to throne on 20 Jan 1936</cont>
+        <cont>Abdicated 11 Dec 1936</cont>
+        <cont></cont>
+    </note>
+    <note id=@N0009@>
+        <conc>Became Queen in 1837 on death of uncle Willian IV</conc>
+        <cont>Origin of house of Windsor ???</cont>
+    </note>
+    <note id=@N0010@>
+        <conc>King of Prussia, German Emperor</conc>
+    </note>
+    <note id=@N0011@>
+        <cont>Died of Typhoid</cont>
+    </note>
+    <note id=@N0012@>
+        <cont>Note on victoria birth date</cont>
+    </note>
+    <note id=@N0013@>
+        <conc>Prince Andrew of Greece</conc>
+    </note>
+    <note id=@N0014@>
+        <conc>dau of Prince Nicholas of Greece</conc>
+    </note>
+    <note id=@N0015@>
+        <conc>dau of John Duke of Buccleuch</conc>
+    </note>
+    <note id=@N0016@>
+        <conc>dau of Francis Duke of Teck</conc>
+    </note>
+    <note id=@N0017@>
+        <conc>King of Norway</conc>
+    </note>
+    <note id=@N0018@>
+        <conc>dau of Christian IX, King of Denmark</conc>
+    </note>
+    <note id=@N0019@>
+        <conc>GD of Hesse</conc>
+    </note>
+    <note id=@N0020@>
+        <conc>Duke of Edinburgh</conc>
+        <cont>Duke of Saxe-Coburg & Gotha 1893</cont>
+    </note>
+    <note id=@N0021@>
+        <conc>dau of Alexander II, Emperor of Russia</conc>
+    </note>
+    <note id=@N0022@>
+        <conc>Her. Pr. of Saxe-Coburg & Gotha</conc>
+        <cont></cont>
+    </note>
+    <note id=@N0023@>
+        <conc>King of Rumania</conc>
+    </note>
+    <note></note>
+    <note id=@N0025@>
+        <conc>GD of Hesse</conc>
+    </note>
+    <note id=@N0026@>
+        <conc>GD of Russia</conc>
+    </note>
+    <note id=@N0027@>
+        <conc>Pr Christian of Schleswick-Holst.-Sonderbg.-Augustenbg.</conc>
+    </note>
+    <note id=@N0028@>
+        <conc>Cr. Pr., later King of Sweden</conc>
+    </note>
+    <note id=@N0029@>
+        <conc>dau of Pr. Fred. Charles of Prussia</conc>
+    </note>
+    <note id=@N0030@>
+        <conc>dau of George Vict. Pr of Waldeck & Pyrmont</conc>
+    </note>
+    <note id=@N0031@>
+        <conc>Pr Henry Maurice of Battenberg</conc>
+    </note>
+    <note id=@N0032@>
+        <conc>dau of Sir William Worsley Bt.</conc>
+    </note>
+    <note id=@N0033@>
+        <conc>son of David, Earl of Airlie</conc>
+    </note>
+    <note id=@N0034@>
+        <conc>dau of Gunther, B of Reibnitz</conc>
+    </note>
+    <note id=@N0035@>
+        <conc>Pr of Saxe-Coburg & Gotha</conc>
+    </note>
+    <note id=@N0036@>
+        <conc>dau of Francis, Duke of Saxe-Coburg Saalfeld</conc>
+    </note>
+    <note id=@N0037@>
+        <conc>dau of George Wm., Duke of Brunsw.-Zelle</conc>
+    </note>
+    <note id=@N0038@>
+        <conc>King of England 1727 (on death of father Gearge I)</conc>
+        <cont>Next monarch grandson George III</cont>
+    </note>
+    <note id=@N0039@>
+        <conc>dau of John Fred., Mgv. of Brandenbg.-Ansbach</conc>
+    </note>
+    <note id=@N0040@>
+        <conc>King of Denmark</conc>
+    </note>
+    <note id=@N0041@>
+        <conc>King of Denmark</conc>
+    </note>
+    <note id=@N0042@>
+        <conc>dau of Frederick II, Duke of Saxe-Gotha</conc>
+    </note>
+    <note id=@N0043@>
+        <conc>dau of Charles Louis, Duke of Meckl.-Strelitz</conc>
+    </note>
+    <note id=@N0044@>
+        <conc>Duke of Brunswick-Wolfenbuttel</conc>
+    </note>
+    <note id=@N0045@>
+        <conc>King of England 1760</conc>
+        <cont>King of Hanover 1814</cont>
+    </note>
+    <note id=@N0046@>
+        <conc>King of England 1820</conc>
+    </note>
+    <note id=@N0047@>
+        <conc>Pr of Saxe-Coburg</conc>
+        <cont>King of the Belgians 1831</cont>
+    </note>
+    <note id=@N0048@>
+        <conc>dau of Fred. Wm. II, King of Prussia</conc>
+    </note>
+    <note id=@N0049@>
+        <conc>King of England 1830</conc>
+    </note>
+    <note id=@N0050@>
+        <conc>dau of George, Duke of Saxe-Meiningen</conc>
+    </note>
+    <note id=@N0051@>
+        <conc>dau of Charles II, GD of Meckl.-Strelitz</conc>
+    </note>
+    <note id=@N0052@>
+        <conc>Marriage void</conc>
+    </note>
+    <note id=@N0053@>
+        <conc>dau of Earl of Arran</conc>
+    </note>
+    <note id=@N0054@>
+        <conc>dau of Frederick Lgv. of Hesse-Cassel</conc>
+    </note>
+    <note id=@N0055@>
+        <conc>son of Alexander, Duke of Wurttemberg</conc>
+    </note>
+    <note id=@N0056@>
+        <conc>Duke of Brunswick-Luneburg</conc>
+        <cont>Elector of Hanover</cont>
+    </note>
+    <note id=@N0057@>
+        <conc>El. Palatine</conc>
+        <cont>King of Bohemia</cont>
+    </note>
+    <note id=@N0058@>
+        <conc>King of England, 1625</conc>
+        <cont></cont>
+        <cont>Executed in 1649, No monarch till Charles II in 1660?</cont>
+    </note>
+    <note id=@N0059@>
+        <conc>dau of Henry IV, King of France</conc>
+    </note>
+    <note id=@N0060@>
+        <conc>Pr. of Orange</conc>
+    </note>
+    <note id=@N0061@>
+        <conc>dau of Edward, Earl of Clarendon</conc>
+    </note>
+    <note id=@N0062@>
+        <conc>dau of Alphonso IV, Duke of Modena</conc>
+    </note>
+    <note id=@N0063@>
+        <conc>King of England, 1685 (death of Charles II), deposed 1689</conc>
+        <cont>Next King William III</cont>
+    </note>
+    <note id=@N0064@>
+        <conc>King of England when monarchy restored in 1660.</conc>
+        <cont>Previous King - Charles I, next King James II on Charles II death</cont>
+    </note>
+    <note id=@N0065@>
+        <conc>Prince of Orange</conc>
+        <cont>King of England, 1689 after James II deposed</cont>
+        <cont>Shared monarchy with Mary II</cont>
+        <cont>Next Monarch was Anne (Marys sister) on Williams death</cont>
+    </note>
+    <note id=@N0066@>
+        <conc>Queen of England</conc>
+    </note>
+    <note id=@N0067@>
+        <conc>Queen of England, 1702 (after William III/Mary II)</conc>
+        <cont>Followed by George I on her death</cont>
+    </note>
+    <note id=@N0068@>
+        <conc>Duke of Cumberland</conc>
+        <cont>son of Frederick III, King of Denmark</cont>
+    </note>
+    <note id=@N0069@>
+        <conc>Duke of Gloucester</conc>
+    </note>
+    <note id=@N0070@>
+        <conc>Prince of Wales</conc>
+        <cont>Old Pretender</cont>
+    </note>
+    <note id=@N0071@>
+        <conc>Cardinal York</conc>
+    </note>
+    <note id=@N0072@>
+        <conc>Young Pretender</conc>
+        <cont></cont>
+    </note>
+    <note id=@N0073@>
+        <conc>dau of Gustavus, Pr of Stolberg-Gedern</conc>
+    </note>
+    <note id=@N0074@>
+        <conc>Duke of Gloucester</conc>
+    </note>
+    <note id=@N0075@>
+        <conc>Duke of Orleans</conc>
+    </note>
+    <note id=@N0076@>
+        <conc>gd of Frederick V of Palatinate</conc>
+    </note>
+    <note id=@N0077@>
+        <conc>Pr of Wales</conc>
+    </note>
+    <note id=@N0078@>
+        <conc>King of Scots, 1567</conc>
+        <cont>King of England, 1603 (on Death of Elizabeth I)</cont>
+        <cont></cont>
+    </note>
+    <note id=@N0079@>
+        <conc>dau of Frederick II, King of Denmark</conc>
+    </note>
+    <note id=@N0080@>
+        <conc>King of England 1714 (on death of Anne)</conc>
+        <cont>Next Monarch George II</cont>
+    </note>
+    <note id=@N0081@>
+        <conc>Duke of Albany</conc>
+        <cont>Lord Darnley</cont>
+        <cont>murdered 1567</cont>
+    </note>
+    <note id=@N0082@>
+        <conc>King of France</conc>
+    </note>
+    <note id=@N0083@>
+        <conc>Queen of Scots</conc>
+        <cont>Executed in 1587</cont>
+    </note>
+    <note id=@N0084@>
+        <conc>Earl of Bothwell</conc>
+    </note>
+    <note id=@N0085@>
+        <conc>King of Scots</conc>
+    </note>
+    <note id=@N0086@>
+        <conc>King of Scots</conc>
+        <cont>Died in Battle</cont>
+    </note>
+    <note id=@N0087@>
+        <conc>Div 1527</conc>
+    </note>
+    <note id=@N0088@>
+        <conc>Earl of Lennox</conc>
+    </note>
+    <note id=@N0089@>
+        <conc>L. Methven</conc>
+    </note>
+    <note id=@N0090@>
+        <conc>Prince of Wales</conc>
+    </note>
+    <note id=@N0091@>
+        <conc>King of England, 1509</conc>
+        <cont>Next Monarch, son Edward</cont>
+    </note>
+    <note id=@N0092@>
+        <conc>King of Spain</conc>
+    </note>
+    <note id=@N0093@>
+        <conc>Queen of England, 1553, after Jane Gray after half-brothers Edwards death</conc>
+        <cont>Next monarch Elizabeth I on Marys death</cont>
+    </note>
+    <note id=@N0094@>
+        <conc>Executed in 1536</conc>
+        <cont>dau of Thomas, Earl of Wiltshire.</cont>
+    </note>
+    <note id=@N0095@>
+        <conc>Executed in 1542</conc>
+    </note>
+    <note id=@N0096@>
+        <conc>Divorced 1539</conc>
+    </note>
+    <note id=@N0097@>
+        <conc>Queen of England, 1558 on death of half-sister Mary</conc>
+        <cont>Next Monarch, James I (VI)</cont>
+    </note>
+    <note id=@N0098@>
+        <conc>King of England, 1547 (on fathers death)</conc>
+        <cont>Mext Monarch Jane Gray (9 days) then Mary I</cont>
+    </note>
+    <note id=@N0099@>
+        <conc>dau of Claude, Duke of Guise</conc>
+    </note>
+    <note id=@N0100@>
+        <conc>King of France</conc>
+    </note>
+    <note id=@N0101@>
+        <conc>Duke of Suffolk</conc>
+    </note>
+    <note id=@N0102@>
+        <conc>Duke  of Suffolk</conc>
+        <cont>Executed 1554</cont>
+    </note>
+    <note id=@N0103@>
+        <conc>proclaimed Queen of England. 9 day queen, between edward VI and Mary I</conc>
+        <cont>Executed 1554</cont>
+    </note>
+    <note id=@N0104@>
+        <conc>son of John, Duke of Northumberland</conc>
+        <cont>Executed 1554</cont>
+    </note>
+    <note id=@N0105@>
+        <conc>Earl of Lennox</conc>
+    </note>
+    <note id=@N0106@>
+        <conc>dau of Robert Earl of Essex</conc>
+    </note>
+    <note id=@N0107@>
+        <conc>King of England, 1485 after death of Richard III</conc>
+    </note>
+    <note id=@N0108@>
+        <conc>Earl of Richmond</conc>
+    </note>
+    <note id=@N0109@>
+        <conc>Executed 1461</conc>
+    </note>
+    <note id=@N0110@>
+        <conc>dau of Charles VI, King of France</conc>
+    </note>
+    <note id=@N0111@>
+        <conc>Earl of Pembroke</conc>
+    </note>
+    <note id=@N0112@>
+        <conc>dau of Richard, Earl of Rivers</conc>
+    </note>
+    <note id=@N0113@>
+        <conc>King of England, 1413</conc>
+    </note>
+    <note id=@N0114@>
+        <conc>King of England, 1422-1461</conc>
+        <cont>Murdered 1471</cont>
+        <cont>Next monarch Edward IV</cont>
+    </note>
+    <note id=@N0115@>
+        <conc>dau of Rene, King of Sicily & Naples</conc>
+    </note>
+    <note id=@N0116@>
+        <conc>Prince of Wales</conc>
+        <cont>Killed in battle in 1471</cont>
+    </note>
+    <note id=@N0117@>
+        <conc>King of England, before Henry VII</conc>
+        <cont>Killed in battle 1485</cont>
+    </note>
+    <note id=@N0118@>
+        <conc>King of England, 1399</conc>
+    </note>
+    <note id=@N0119@>
+        <conc>dau of Humphrey, Earl of Hereford</conc>
+    </note>
+    <note id=@N0120@>
+        <conc>Duke of Lancaster</conc>
+    </note>
+    <note id=@N0121@>
+        <conc>dau of Henry, Duke of Lancaster</conc>
+    </note>
+    <note id=@N0122@>
+        <conc>King of England</conc>
+    </note>
+    <note id=@N0123@>
+        <conc>dau of William, Earl of Ulster</conc>
+    </note>
+    <note id=@N0124@>
+        <conc>Duke of Clarence</conc>
+    </note>
+    <note id=@N0125@>
+        <conc>C of Ulster</conc>
+    </note>
+    <note id=@N0126@>
+        <conc>Earl of March</conc>
+        <cont>Killed in Battle</cont>
+    </note>
+    <note id=@N0127@>
+        <conc>dau of Thomas Holand, Earl of Kent</conc>
+    </note>
+    <note id=@N0128@>
+        <conc>Earl of Cambrdge</conc>
+        <cont>Executed 1415</cont>
+    </note>
+    <note id=@N0129@>
+        <conc>Killed in Battle</conc>
+        <cont>Duke of York</cont>
+        <cont>Protector of England</cont>
+    </note>
+    <note id=@N0130@>
+        <conc>Executed 1460</conc>
+        <cont>Earl of Salisbury</cont>
+    </note>
+    <note id=@N0131@>
+        <conc>Killed in Battle</conc>
+        <cont>Earl of Warwick, "the King-Maker"</cont>
+        <cont></cont>
+    </note>
+    <note id=@N0132@>
+        <conc>dau of Richard, Earl of Warwick</conc>
+    </note>
+    <note id=@N0133@>
+        <conc>Earl of Westmorland</conc>
+    </note>
+    <note id=@N0134@>
+        <conc>dau of Thomas, Earl of Kent</conc>
+    </note>
+    <note id=@N0135@>
+        <conc>Killed in Battle 1421</conc>
+        <cont>Duke of Clarence</cont>
+    </note>
+    <note id=@N0136@>
+        <conc>Duke of Somerset</conc>
+    </note>
+    <note id=@N0137@>
+        <conc>dau of John Beauchamp of Bletso</conc>
+    </note>
+    <sour id=@S0001@>
+        <auth>glamis family</auth>
+        <publ>Glamis Guide</publ>
+    </sour>
+    <trlr></trlr>
+</gedcom>

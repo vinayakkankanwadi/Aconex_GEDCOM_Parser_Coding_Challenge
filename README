@@ -1,0 +1,12 @@
+Purpose:
+> First Commit
+> Files added
+	> Parse.java  : Functionality to Parse the data
+	> XMLWriter.java : Functionality to write XML
+	> GEDCOM2XML.java : Functionality to process
+	> TestGEDCOM2XML.java : Functionality to Test GEDCOM2XML convertion
+	> GEDCOM_Parser_Challenge_sample_data.txt  : Input file
+	> GEDCOM_Parser_Challenge_result.xml  : Output file
+> Basic functionality to take GEDCOM input file and convert it to XML file 
+> Compilation : java TestGEDCOM2XML.java
+> Usage: java TestGEDCOM2XML <gedcominputfilename> <xmloutputfilename>
