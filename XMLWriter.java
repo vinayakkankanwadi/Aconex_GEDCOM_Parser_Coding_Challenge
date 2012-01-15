@@ -23,11 +23,14 @@ public class XMLWriter
 
 	public XMLWriter() throws IOException
 	{
+		// If nothing is specified an support to 
+		// output the result onto standard output
 		out = new BufferedWriter (new OutputStreamWriter(System.out));
 	}
 
 	public XMLWriter(String strFilename) throws IOException
 	{
+		// XML output file where the result will be written
 		if ( strFilename != null ) 
 		{
 			out = new BufferedWriter(new FileWriter(strFilename));
@@ -36,6 +39,9 @@ public class XMLWriter
 
 	public void createNode(Parse obj) throws IOException
 	{
+		// Used to write Nodes with Value normaly parent node ex:
+		//        <name value="Jamis Gordon /Buck/">
+
 		indentation(obj);
 		out.write("<"+obj.getStrTag());
 		if( obj.getStrId() != null )
@@ -51,6 +57,9 @@ public class XMLWriter
 
 	public void childNode(Parse obj) throws IOException
 	{
+		// Used to write Nodes with Data normaly singular or child node ex:
+		//            <surn>Buck</surn>
+
 		indentation(obj);
 		out.write("<"+obj.getStrTag()+">");
 		if ( obj.getStrValue() != null )
@@ -62,6 +71,9 @@ public class XMLWriter
 
 	public void endNode(Parse obj) throws IOException
 	{
+		// Used to write the closing node with proper indentation ex:
+		//    </indi>
+
 		indentation(obj);
 		out.write("</"+obj.getStrTag()+">\n");
 		out.flush();
@@ -69,6 +81,9 @@ public class XMLWriter
 
         protected void indentation(Parse obj) throws IOException
         {
+		// Used to provide indentation nodes as per ther level ex:
+		//            <surn>Buck</surn>
+
                 String separator = "    ";
                 for ( int i = 0 ; i<=obj.getIntLevel();i++ )
                 {
