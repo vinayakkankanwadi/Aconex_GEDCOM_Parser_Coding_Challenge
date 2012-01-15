@@ -101,7 +101,7 @@ public class TestCasesGEDCOM2XML extends Assert {
 
 	// Test which checks the following
 	// Specified in the requirement docuement
-	// 1> "0 @I1@ INDI" get converted to     <indi id=@I1@> [new subtree ]
+	// 1> "0 @I1@ INDI" get converted to     <indi id="@I1@"> [new subtree ]
 	// 2> "1 NAME Jamis Gordon /Buck/" get converted to <name value="Jamis Gordon /Buck/"> 
 	// 3> "2 SURN Buck" get converted to <surn>Buck</surn>  [Subelement]
 	// 4> "1 SEX M" get converted to <sex>M</sex> [new subelement of INDI ]

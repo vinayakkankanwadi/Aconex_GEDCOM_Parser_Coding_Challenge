@@ -46,7 +46,7 @@ public class XMLWriter
 		out.write("<"+obj.getStrTag());
 		if( obj.getStrId() != null )
 		{	
-			out.write(" id="+obj.getStrId());
+			out.write(" id=\""+obj.getStrId()+"\"");
 		}
 		if( obj.getStrValue() != null )
 		{	
