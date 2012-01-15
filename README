@@ -50,3 +50,46 @@ Time: 1.878
 
 OK (1 test)
 ______________________________________________________________________
+
+
+______________________________________________________________________
+
+VERSION 3.0 
+Purpose:
+> Third Major Commit
+> Added Test Cases to cover Test cases mentioned in the Specification
+> Compilation : javac   -cp .:junit-4.10.jar *.java
+> Usage java -cp .:junit-4.10.jar org.junit.runner.JUnitCore GEDCOMTestSuite
+
+RESULT
+______________________________________________________________________
+Aconex_GEDCOM_Parser_Coding_Challenge $ java -cp .:junit-4.10.jar org.junit.runner.JUnitCore GEDCOMTestSuite
+JUnit version 4.10
+In TestCasesGEDCOM2XML::BeforeClass
+.In TestCasesGEDCOM2XML::setUp
+In TestCasesGEDCOM2XML::testVariableWhiteSpacebtLevelAndTag
+In TestCasesGEDCOM2XML::executeConvert
+In TestCasesGEDCOM2XML::fileCompare
+In TestCasesGEDCOM2XML::tearDown
+.In TestCasesGEDCOM2XML::setUp
+In TestCasesGEDCOM2XML::testBlankLines
+In TestCasesGEDCOM2XML::executeConvert
+In TestCasesGEDCOM2XML::fileCompare
+In TestCasesGEDCOM2XML::tearDown
+.In TestCasesGEDCOM2XML::setUp
+In TestCasesGEDCOM2XML::testValues
+In TestCasesGEDCOM2XML::executeConvert
+In TestCasesGEDCOM2XML::fileCompare
+In TestCasesGEDCOM2XML::tearDown
+.In TestCasesGEDCOM2XML::setUp
+In TestCasesGEDCOM2XML::testConvertGEDCOM2XML
+In TestCasesGEDCOM2XML::executeConvert
+In TestCasesGEDCOM2XML::fileCompare
+In TestCasesGEDCOM2XML::tearDown
+In TestCasesGEDCOM2XML::AfterClass
+
+Time: 1.329
+
+OK (4 tests)
+
+______________________________________________________________________

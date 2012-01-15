@@ -23,6 +23,8 @@ public class TestCasesGEDCOM2XML extends Assert {
 		String strOutputFile, String strResultFile ) throws IOException {
         System.out.println("In TestCasesGEDCOM2XML::executeConvert");
 
+	// Does the Actual convertion from GEDCOM input file to XML output file
+
 	GEDCOM2XML g2x = new GEDCOM2XML(strInputFile,strOutputFile);
 	g2x.convert();
 
@@ -34,6 +36,8 @@ public class TestCasesGEDCOM2XML extends Assert {
     public static boolean fileCompare(String strFileOne,String strFileTwo) 
 							throws IOException {
         System.out.println("In TestCasesGEDCOM2XML::fileCompare");
+
+	// Used to compare two files
 
 	BufferedReader brOne = new BufferedReader(new FileReader(strFileOne));
 	BufferedReader brTwo = new BufferedReader(new FileReader(strFileTwo));
@@ -67,6 +71,9 @@ public class TestCasesGEDCOM2XML extends Assert {
     public void testVariableWhiteSpaceBtLevelAndTag() throws IOException, Exception {
         System.out.println("In TestCasesGEDCOM2XML::testVariableWhiteSpacebtLevelAndTag");
 
+	// Test to Check for Variable White Space between Level and Tag which should be ignored as 
+	// Specified in the requirement document
+
 	String strInputFile = "TestCasesGEDCOM2XMLTestDataVariableWhiteSpaceBetweenLevelAndTag.txt";
 	String strOutputFile = "TestCasesGEDCOM2XMLTestDataVariableWhiteSpaceBetweenLevelAndTagOutput.xml";
 	String strResultFile = "TestCasesGEDCOM2XMLTestDataVariableWhiteSpaceBetweenLevelAndTagResult.xml";
@@ -78,6 +85,9 @@ public class TestCasesGEDCOM2XML extends Assert {
     public void testBlankLines() throws IOException, Exception {
         System.out.println("In TestCasesGEDCOM2XML::testBlankLines");
 
+	// Test to check for Blank Lines in input file which should be ignored as
+	// Specified in the requirement docuemnt 
+
 	String strInputFile = "TestCasesGEDCOM2XMLTestDataBlankLines.txt";
 	String strOutputFile = "TestCasesGEDCOM2XMLTestDataBlankLinesOutput.xml";
 	String strResultFile = "TestCasesGEDCOM2XMLTestDataBlankLinesResult.xml";
@@ -86,8 +96,30 @@ public class TestCasesGEDCOM2XML extends Assert {
     }
 
     @Test
+    public void testValues() throws IOException, Exception {
+        System.out.println("In TestCasesGEDCOM2XML::testValues");
+
+	// Test which checks the following
+	// Specified in the requirement docuement
+	// 1> "0 @I1@ INDI" get converted to     <indi id=@I1@> [new subtree ]
+	// 2> "1 NAME Jamis Gordon /Buck/" get converted to <name value="Jamis Gordon /Buck/"> 
+	// 3> "2 SURN Buck" get converted to <surn>Buck</surn>  [Subelement]
+	// 4> "1 SEX M" get converted to <sex>M</sex> [new subelement of INDI ]
+
+
+	String strInputFile = "TestCasesGEDCOM2XMLTestDataValues.txt";
+	String strOutputFile = "TestCasesGEDCOM2XMLTestDataValuesOutput.xml";
+	String strResultFile = "TestCasesGEDCOM2XMLTestDataValuesResult.xml";
+
+	executeConvert(strInputFile,strOutputFile,strResultFile);
+    }
+
+    @Test
     public void testConvertGEDCOM2XML() throws IOException, Exception {
         System.out.println("In TestCasesGEDCOM2XML::testConvertGEDCOM2XML");
+
+	// Test to check for sample input provided gets convert to proper xml file as
+	// Specified in the requirement docuement and marks the completion
 
 	String strInputFile = "GEDCOM_Parser_Challenge_sample_data.txt";
         String strOutputFile = "GEDCOM_Parser_Challenge_Output.xml";
