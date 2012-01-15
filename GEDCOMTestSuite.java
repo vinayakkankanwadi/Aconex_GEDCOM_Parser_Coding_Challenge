@@ -1,6 +1,6 @@
 /**
  *
-Class TestSuit to test functionality of GEDCOM to XML file
+Class GEDCOMTestSuit to test functionality of GEDCOM
  *
  * @version
 

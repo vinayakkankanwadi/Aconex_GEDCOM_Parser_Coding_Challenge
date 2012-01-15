@@ -53,7 +53,7 @@ public class TestCasesGEDCOM2XML extends Assert {
  
     @Test
     public void testConvertGEDCOM2XML() throws IOException, Exception {
-        System.out.println("In TestCasesGEDCOM2XML::testConvertGEDCOM2XMLk ");
+        System.out.println("In TestCasesGEDCOM2XML::testConvertGEDCOM2XML");
 
 	String strInputFile = "GEDCOM_Parser_Challenge_sample_data.txt";
 	String strOutputFile = "GEDCOM_Parser_Challenge_sample_result.xml";

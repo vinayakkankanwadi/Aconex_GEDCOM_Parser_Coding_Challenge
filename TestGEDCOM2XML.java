@@ -23,6 +23,7 @@ public class TestGEDCOM2XML
 		if(args.length < 2)
 		{
 			System.out.println("Usage: java TestGEDCOM2XML <gedcominputfilename> <xmloutputfilename>");
+			System.exit(0);
 		}
 
 		GEDCOM2XML g2x = new GEDCOM2XML(args[0],args[1]);
