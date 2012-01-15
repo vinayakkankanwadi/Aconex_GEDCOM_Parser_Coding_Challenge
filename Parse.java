@@ -32,7 +32,7 @@ public class Parse
 	
 	protected void initIdTagValue()
 	{
-		String[] tokens = m_strLine.split("\\s", 3);
+		String[] tokens = m_strLine.split("\\s+", 3);
 
 		m_strLevel = tokens[0];
 		if(tokens[1].startsWith("@") && tokens[1].endsWith("@"))

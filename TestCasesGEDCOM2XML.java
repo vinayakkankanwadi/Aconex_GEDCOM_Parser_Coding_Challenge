@@ -64,6 +64,17 @@ public class TestCasesGEDCOM2XML extends Assert {
     }
  
     @Test
+    public void testVariableWhiteSpaceBtLevelAndTag() throws IOException, Exception {
+        System.out.println("In TestCasesGEDCOM2XML::testVariableWhiteSpacebtLevelAndTag");
+
+	String strInputFile = "TestCasesGEDCOM2XMLTestDataVariableWhiteSpaceBetweenLevelAndTag.txt";
+	String strOutputFile = "TestCasesGEDCOM2XMLTestDataVariableWhiteSpaceBetweenLevelAndTagOutput.xml";
+	String strResultFile = "TestCasesGEDCOM2XMLTestDataVariableWhiteSpaceBetweenLevelAndTagResult.xml";
+
+	executeConvert(strInputFile,strOutputFile,strResultFile);
+    }
+
+    @Test
     public void testBlankLines() throws IOException, Exception {
         System.out.println("In TestCasesGEDCOM2XML::testBlankLines");
 
@@ -79,7 +90,7 @@ public class TestCasesGEDCOM2XML extends Assert {
         System.out.println("In TestCasesGEDCOM2XML::testConvertGEDCOM2XML");
 
 	String strInputFile = "GEDCOM_Parser_Challenge_sample_data.txt";
-	String strOutputFile = "GEDCOM_Parser_Challenge_sample_result.xml";
+        String strOutputFile = "GEDCOM_Parser_Challenge_Output.xml";
 	String strResultFile = "GEDCOM_Parser_Challenge_result.xml";
 
         File fileOutput = new File(strOutputFile);
