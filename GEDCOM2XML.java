@@ -63,6 +63,11 @@ public class GEDCOM2XML
 		while (true) 
 		{
 			strLine = getInput().readLine() ;
+			if ( strLine !=null && strLine.trim().compareTo("") == 0 )
+			{
+				// This handles blank lines in the file
+				continue ;
+			}
 			curr = new  Parse(strLine);
 		 	if ( strLine  == null )
 			{

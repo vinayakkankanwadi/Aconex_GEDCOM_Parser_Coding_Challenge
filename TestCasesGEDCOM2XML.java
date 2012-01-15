@@ -19,6 +19,18 @@ import static org.junit.Assert.*;
 
 public class TestCasesGEDCOM2XML extends Assert {
  
+    public static void executeConvert( String strInputFile, 
+		String strOutputFile, String strResultFile ) throws IOException {
+        System.out.println("In TestCasesGEDCOM2XML::executeConvert");
+
+	GEDCOM2XML g2x = new GEDCOM2XML(strInputFile,strOutputFile);
+	g2x.convert();
+
+	assertTrue("Files should be same", 
+		fileCompare(strOutputFile,strResultFile));
+
+    }
+
     public static boolean fileCompare(String strFileOne,String strFileTwo) 
 							throws IOException {
         System.out.println("In TestCasesGEDCOM2XML::fileCompare");
@@ -52,6 +64,17 @@ public class TestCasesGEDCOM2XML extends Assert {
     }
  
     @Test
+    public void testBlankLines() throws IOException, Exception {
+        System.out.println("In TestCasesGEDCOM2XML::testBlankLines");
+
+	String strInputFile = "TestCasesGEDCOM2XMLTestDataBlankLines.txt";
+	String strOutputFile = "TestCasesGEDCOM2XMLTestDataBlankLinesOutput.xml";
+	String strResultFile = "TestCasesGEDCOM2XMLTestDataBlankLinesResult.xml";
+
+	executeConvert(strInputFile,strOutputFile,strResultFile);
+    }
+
+    @Test
     public void testConvertGEDCOM2XML() throws IOException, Exception {
         System.out.println("In TestCasesGEDCOM2XML::testConvertGEDCOM2XML");
 
@@ -62,11 +85,7 @@ public class TestCasesGEDCOM2XML extends Assert {
         File fileOutput = new File(strOutputFile);
 	assertFalse("File should not exist", fileOutput.exists());
 
-	GEDCOM2XML g2x = new GEDCOM2XML(strInputFile,strOutputFile);
-	g2x.convert();
-
-	assertTrue("Files should be same", 
-		fileCompare(strOutputFile,strResultFile));
+	executeConvert(strInputFile,strOutputFile,strResultFile);
     }
 
     @After
