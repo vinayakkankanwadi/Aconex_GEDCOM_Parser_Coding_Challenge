@@ -30,6 +30,9 @@ public class TestCasesGEDCOM2XML extends Assert {
 
 	assertTrue("Files should be same", 
 		fileCompare(strOutputFile,strResultFile));
+        
+	File fileOutput = new File(strOutputFile);
+	fileOutput.delete();
 
     }
 
